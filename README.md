@@ -22,6 +22,18 @@
 
 ### 『5分』
 
+&raquo;  [EIDOS](https://enumivo.org/get-free-eidos)
+
+> 代币分配：团队20%，其他全部空投出去。  
+> 空投规则算是目前EOS很创新的玩法，通过转账挖矿，转账到合约账号，合约账号会把你转的金额如数退给你，并且附加给你EIDOS代币，空投时间15个月。
+> 项目代码也是开源的，[github.com/enumivo/eidos](https://github.com/enumivo/eidos) ，
+> 补充说一句，这个项目都导致EOS主链CPU价格暴涨，有FOMO趋势，导致github上的合约代码居然只有2个star，1个watch。有些讽刺了。
+
+> 除了空投很创新以外，看项目官网来看，创始人想解决EOS上资源闲置的问题，这个方向我觉得挺ok的，毕竟EOS的价值，本质上是投票权和抵押资源的价值。
+> 如果抵押资源的价值上去了，EOS的生态才会好起来。算是对EOS生态很有利的项目，至于具体做法，还需要再观察。
+
+> 值得期待。
+
 &raquo; [USDT](https://eospark.com/account/tethertether?action=call)
 
 > 稳定币是数字货币交易的刚需中间品，目前来看，稳定币领域仍然还是得看 USDT 脸色（其他链也是），
