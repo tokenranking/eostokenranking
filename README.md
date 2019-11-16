@@ -185,6 +185,10 @@
 > 游戏有关的概念币，不看好，感觉游戏类的币，都有点走飘了，游戏的本质在于娱乐，在于消费和花钱，不在于增值。
 > 而且看开盘砸成这样，应该也不是什么好鸟。
 
+&raquo; [BBT](https://github.com/blockbasenetwork/documentation/blob/master/WhitePaper-tldr.md)
+
+> 解决的需求不明确，想在区块链上面做数据库，45%的币空投，其他的币全部用来做项目建设，也就是类似发工资。但是项目建设的前景又不清楚，目前看成功的概率不大。
+
 ### 『0分』
 
 &raquo; DEFI
