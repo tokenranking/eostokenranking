@@ -171,6 +171,10 @@
 
 ### 『1分』
 
+&raquo; [DAPPPRO](https://eospark.com/contract/dapp.pro?tab=analysis)
+
+> 没看到更多介绍，只能凭直觉或者说嗅觉来判断是韭菜包子了。
+
 &raquo; EATCOIN (https://eatschools.com/index.php/about-us/)
 
 > 概念是教育激励，学生通过学习网上课程获得代币，教师通过收获学生好评获得代币。
