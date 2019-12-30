@@ -165,6 +165,10 @@
 
 > 又一个菠菜游戏，同质化太严重，不看好。
 
+&raquo; [BBT](https://blockbase.network/)
+
+> 基于区块链的数据库，目前这个阶段做这个事情，希望不大。
+
 ### 『1分』
 
 &raquo; EATCOIN (https://eatschools.com/index.php/about-us/)
