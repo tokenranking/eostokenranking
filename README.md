@@ -69,6 +69,18 @@
 
 ### 『4分』
 
+&raquo; [SPEECH](https://github.com/cantstopwondering/speech)
+
+> 这个币有点搞笑，技术上也是走 GitHub Readme 风格。项目很好懂，也是 EIDOS 的抄袭者之一，就是调用合约进行『发言』挖矿。
+> 与其说是『发言』挖矿，不如说是『骂街』挖矿，而且是针对 b1 的『骂街』挖矿。Readme 开头就是『Dear all helpless EOS holders ...』。
+> 而且更搞笑的是，这个作者还跑去 eosio/eos 的 [issue](https://github.com/EOSIO/eos/issues/8395#event-2921899635) 上宣传。
+> 感觉 b1 应该非常 what the fuck ...
+> 这个项目的介绍语上写的是『Silence is silver, speech is golden.』，翻译过来就是『沉默是银，骂街是金』。哈哈
+
+> 想象下如果这个项目和 EIDOS 一样火爆的话，不知道 [b1](https://eospark.com/account/b1) 的 [Actions](https://eospark.com/account/b1) 记录里面要收集多少五湖四海的『问候』。
+
+> 真的是莫名的喜感。
+
 &raquo; [RUTM](https://github.com/baromjon/ramupthemoon)
 
 > 基本上就是 EIDOS 创意的延续，缺点是没啥创意，亮点是 GitHub 说明和代码开源都有一点点geek范。
