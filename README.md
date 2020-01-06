@@ -200,6 +200,10 @@
 
 ### 『1分』
 
+&raquo; [DMC](https://eospark.com/account/weedcashntwk)
+
+> 训龙大师游戏币，持币分红，方向不看好，游戏是用来娱乐的，不是用来赚钱的。
+
 &raquo; [DAPPPRO](https://eospark.com/contract/dapp.pro?tab=analysis)
 
 > 没看到更多介绍，只能凭直觉或者说嗅觉来判断是韭菜包子了。
