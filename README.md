@@ -163,6 +163,10 @@
 
 > 基于 steem-engine 上的一个代币，对于 steem 不太了解，目测像是 steem 上的币在 eos 链上映射的 1比1 的代币，观察吧。
 
+&raquo; [WEED](http://weedcash.io/)
+
+> 和 STEEMP 类似，一币发多链，看不太懂，也是观察吧。
+
 &raquo; [LMC](http://luckyminer.one/)
 
 > 其实就是基于区块链的彩票，我理解方向是没问题的，但是从网站上来看，团队技术实在是太粗糙了，如果是靠谱技术团队应该能到3分或者4分。
