@@ -118,6 +118,10 @@ zigzag是双胞胎币，背景是目前区块链的稳定币比如usdt并不是�
 
 ---
 
+#### [POOL](https://eospark.com/contract/stpool.eos?tab=analysis)
+
+starteos 的股份币？会员币？没找到这个币的介绍，也没看出发这个币的必要性？
+
 #### [EOSDAC]
 
 可能是一个eos上的乌托邦，理想是美好的，现实是残酷的。
