@@ -228,6 +228,10 @@ dice平台上的积分代币，没太大意思，主要是起到比较喜庆的�
 
 看到这个介绍，就觉得没戏了。区块链IM还没出成熟的产品，就开始用它作为平台载体？恩？
 
+#### [MARF](https://marf.io/)
+
+从 MARF [官网](https://marf.io/) 看不到任何和 [Newdex上币介绍](https://newdex.zendesk.com/hc/zh-cn/articles/360038039172-Newdex%E4%B8%8A%E7%BA%BF-MARF-EOS-%E6%96%B0%E4%BA%A4%E6%98%93%E5%AF%B9) 对得上的资料。what happened?
+
 ### 『1分』⭐️
 
 ---
