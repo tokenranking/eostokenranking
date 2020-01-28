@@ -24,6 +24,18 @@
 
 ---
 
+#### [POW](https://github.com/NedAmarril/eosiopowcoin)
+
+和EIDOS类似，也是通过eos的cpu资源挖矿。
+
+主要有以下创新点：
+
++ 挖矿方式致敬了bitcoin，总量和增发方式对齐bitcoin。
++ 没有预挖，没有团队份额。
++ 已经把权限统一设置成eos节点的公钥，也就是这个合约已经『不可变』，完全去中心化。
+
+这些创新点都是优于 EIDOS，有点青出于蓝而胜于蓝的感觉。值得关注。
+
 #### [EIDOS](https://enumivo.org/get-free-eidos)
 
 代币分配：团队20%，其他全部空投出去。  
