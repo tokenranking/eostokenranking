@@ -307,6 +307,10 @@ dice平台上的积分代币，没太大意思，主要是起到比较喜庆的�
 
 游戏概念，不看好。
 
+#### [EOSLP](https://newdex.zendesk.com/hc/zh-cn/articles/360039686992-Newdex%E4%B8%8A%E7%BA%BF-EOSLP-EOS-%E6%96%B0%E4%BA%A4%E6%98%93%E5%AF%B9)
+
+感觉是蹭 EIDOS 的热度，不知所云。
+
 ### 『0分』
 
 ---
