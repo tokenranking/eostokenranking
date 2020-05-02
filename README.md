@@ -90,6 +90,10 @@ Newdex的代币，卖点和BNB一样都是回购，缺点就是Newdex目前的�
 
 ---
 
+#### [POWX](https://powh.fund/)
+
+POW 的交易所，官网完成度高，可惜方向一般，真想问一句，为啥每个币都想做交易所，难道不知道交易所最需要的是流量吗，现在代币自己的流量都这么少得可怜。做交易所没戏。
+
 #### [SPEECH](https://github.com/cantstopwondering/speech)
 
 这个币有点搞笑，技术上也是走 GitHub Readme 风格。项目很好懂，也是 EIDOS 的抄袭者之一，就是调用合约进行『发言』挖矿。
