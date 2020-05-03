@@ -52,6 +52,8 @@
 
 EIDOS 团队出的，也是很有想法的做法，可以和 EIDOS 互换，当 YAS 发行代币达到 90M 的时候会启动主链，并且主链上刚开始完全中心化的，慢慢转换成去中心化。EIDOS 团队目前应该是 EOS 链上最会玩的团队。值得期待。
 
+有兴趣的朋友可以详细读一读 [YAS Network](https://enumivo.org/blog/2019/11/24/yas-network) 
+
 #### [USDT](https://eospark.com/account/tethertether?action=call)
 
 稳定币是数字货币交易的刚需中间品，目前来看，稳定币领域仍然还是得看 USDT 脸色（其他链也是），
