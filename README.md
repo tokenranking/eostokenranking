@@ -92,6 +92,10 @@ Newdex的代币，卖点和BNB一样都是回购，缺点就是Newdex目前的�
 
 ---
 
+#### [EOSLP](https://enumivo.org/blog/2019/11/7/more-codex-details)
+
+EIDOS 做的 [Codex](https://enumivo.org/blog/2019/11/7/more-codex-details) 的衍生代币，用来赚取 EIDOS/EOS 交易对的手续费。Codex 这个项目有点大，前路艰辛。
+
 #### [POWX](https://powh.fund/)
 
 POW 的交易所，官网完成度高，可惜方向一般，真想问一句，为啥每个币都想做交易所，难道不知道交易所最需要的是流量吗，现在代币自己的流量都这么少得可怜。做交易所没戏。
@@ -308,10 +312,6 @@ dice平台上的积分代币，没太大意思，主要是起到比较喜庆的�
 #### [ROR](http://roruniverse.com/)
 
 游戏概念，不看好。
-
-#### [EOSLP](https://newdex.zendesk.com/hc/zh-cn/articles/360039686992-Newdex%E4%B8%8A%E7%BA%BF-EOSLP-EOS-%E6%96%B0%E4%BA%A4%E6%98%93%E5%AF%B9)
-
-感觉是蹭 EIDOS 的热度，不知所云。
 
 ### 『0分』
 
