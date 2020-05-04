@@ -92,6 +92,12 @@ Newdex的代币，卖点和BNB一样都是回购，缺点就是Newdex目前的�
 
 ---
 
+#### [AMT](https://enumivo.org/blog/2020/3/1/amt-anti-mining-token-airdrop)
+
+EIDOS 团队出品，和 EIDOS 逆着来，按 REX 量的挖矿，可以理解是为了解决目前 EOS CPU 挖矿影响了正常的生产稳定性。
+但是比较奇怪的一点是 AMT 的挖矿时间特别短，4 月份出来，5 月 1 号就截止了。热度差了 EIDOS 几个数量级，
+大家应该对于这类概念已经感觉疲惫了吧。
+
 #### [EOSLP](https://enumivo.org/blog/2019/11/7/more-codex-details)
 
 EIDOS 做的 [Codex](https://enumivo.org/blog/2019/11/7/more-codex-details) 的衍生代币，用来赚取 EIDOS/EOS 交易对的手续费。Codex 这个项目有点大，前路艰辛。
