@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Write a ranked eos token list, in my personal option. 
+Writing a ranked eos token list, in my personal opionion. 
 
 Objective:
 
