@@ -1,26 +1,33 @@
 # EOS Token Ranking
 
-## 背景 
+## Introduction
 
-以个人主观意识来进行EOS链上代币质量分预估排序。
+Write a ranked eos token list, in my personal option. 
 
-预估目标：
+Objective:
 
-0~5分，一共6个类别。
+group by 0~5 star, so there are 6 classes totally.
 
-- 5~4 分：高质高潜，持续关注。
-- 3~2 分：中规中矩，有待观察。
-- 1~0 分：明显缺陷，韭菜包子。
+- 5~4 star：potential and high quality
+- 3~2 star：medium, and remain to be observed
+- 1~0 star：trash and worthless
 
-主要特征：
+Features: 
 
-白皮书，官网，GitHub，要解决的问题，解决的手法，Token持仓分布，市值走势。
+- Whitepaper
+- Official Website
+- GitHub
+- The problem to solve
+- The way to reach the target
+- Token distribution 
+- The trend of marketing
 
-分析顺序就和 EOS 社区最流行的去中心化交易所 Newdex 上币[顺序](https://newdex.zendesk.com/hc/zh-cn/sections/360003160531-%E5%B8%81%E7%A7%8D%E5%8A%A8%E6%80%81)对齐吧。尽可能覆盖所有 Newdex 上的币。
+I will follow the [Newdex token launched announcement](https://newdex.zendesk.com/hc/en-us/sections/360003160531-Token-Developments) to update the newest token ranking. 
+Try my best to cover all of tokens launched at Newdex.
 
-## 排名如下
+## Ranking
 
-### 『5分』⭐️⭐️⭐️⭐️⭐️
+### ⭐️⭐️⭐️⭐️⭐️
 
 ---
 
