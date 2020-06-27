@@ -33,15 +33,13 @@ Try my best to cover all of tokens launched at Newdex.
 
 #### [POW](https://github.com/NedAmarril/eosiopowcoin)
 
-和EIDOS类似，也是通过eos的cpu资源挖矿。
+Do the mining things by eos cpu, just like EIDOS, but it has some advantage against EIDOS.  
 
-主要有以下创新点：
+Advantage:
 
-+ 挖矿方式致敬了bitcoin，总量和增发方式对齐bitcoin。
-+ 没有预挖，没有团队份额。
-+ 已经把权限统一设置成eos节点的公钥，也就是这个合约已经『不可变』，完全去中心化。
-
-这些创新点都是优于 EIDOS，有点青出于蓝而胜于蓝的感觉。值得关注。
++ The mining method is likely with bitcoin, for example, the max_supply and additional issue is stay the same with bition.
++ No preserving shares for team. 
++ The Authority of its contract account is set by eosio, so it is decentralised. 
 
 #### [EIDOS](https://enumivo.org/get-free-eidos)
 
