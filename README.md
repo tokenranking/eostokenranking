@@ -43,15 +43,21 @@ Advantage:
 
 #### [EIDOS](https://enumivo.org/get-free-eidos)
 
-代币分配：团队20%，其他全部空投出去。  
-空投规则算是目前EOS很创新的玩法，通过转账挖矿，转账到合约账号，合约账号会把你转的金额如数退给你，并且附加给你EIDOS代币，空投时间15个月。
-项目代码也是开源的，[github.com/enumivo/eidos](https://github.com/enumivo/eidos) ，
-补充说一句，这个项目都导致EOS主链CPU价格暴涨，有FOMO趋势，但是github上的合约代码居然只有2个star，1个watch。有些讽刺了。
+token distributuon: 20% for team , 80% for the air-drop.
 
-除了空投很创新以外，看项目官网来看，创始人想解决EOS上资源闲置的问题，这个方向我觉得挺ok的，毕竟EOS的价值，本质上是投票权和抵押资源的价值。
-如果抵押资源的价值上去了，EOS的生态才会好起来。算是对EOS生态很有利的项目，至于具体做法，还需要再观察。
+the method of EIDOS's air-drop is creative, 
+it is mined through transferring token to EIDOS contract account, 
+and the contract account will return the same amount of token back. 
+at the same time, it will transfer some EIDOS token to you. the mining will be working until 15 months later. 
 
-值得期待。
+source code of this project is open-sourced. it can be found in [github.com/enumivo/eidos](https://github.com/enumivo/eidos).
+
+when this project began, the CPU price on the eos chain increased quickly. that is very interesting.
+
+the founder of this project wants to solve the problem about eos resource lying idle. 
+in my opinion, this is very ok, because eos's main value is about the vote and resource on the chain.
+if the source value in the eos chain going up. the ecology will going better. 
+so this project is benefit for eos. it is worth being watched.
 
 #### [YAS](https://enumivo.org/blog/2019/11/28/yas-token-minting-and-burning)
 
