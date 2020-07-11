@@ -61,9 +61,12 @@ so this project is benefit for eos. it is worth being watched.
 
 #### [YAS](https://enumivo.org/blog/2019/11/28/yas-token-minting-and-burning)
 
-EIDOS 团队出的，也是很有想法的做法，可以和 EIDOS 互换，当 YAS 发行代币达到 90M 的时候会启动主链，并且主链上刚开始完全中心化的，慢慢转换成去中心化。EIDOS 团队目前应该是 EOS 链上最会玩的团队。值得期待。
+YAS was made by the same team of EIDOS. it is interesting idea too. 
+YAS can be transform to EIDOS, vice verse. 
+When the YAS token issued amount reach 90M, the mainnet of YAS will be launched. 
+The team of EIDOS is most creative team at the eos-mainnet, so i think this project deserve attention greatly. 
 
-有兴趣的朋友可以详细读一读 [YAS Network](https://enumivo.org/blog/2019/11/24/yas-network) 
+If you are interested in it, you can look into details in [YAS Network](https://enumivo.org/blog/2019/11/24/yas-network)  
 
 #### [USDT](https://eospark.com/account/tethertether?action=call)
 
