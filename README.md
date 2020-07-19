@@ -70,11 +70,14 @@ If you are interested in it, you can look into details in [YAS Network](https://
 
 #### [USDT](https://eospark.com/account/tethertether?action=call)
 
-稳定币是数字货币交易的刚需中间品，目前来看，稳定币领域仍然还是得看 USDT 脸色（其他链也是），
-毕竟，目前在稳定币领域，去中心化解决方案还是不如历史口碑攒起来的品牌背书。
-就像即使现在你技术再牛逼，也做不出一个更好的支付宝，因为支付宝的安全性是靠那么多年积累下来的。
-目前来看，如果EOS这个链的代币想提高流动性，还是得靠 USDT 带动起来。USDT 才是源头活水。
-目前一共发行了 5251000.5000 USDT，其中，最近的一次增发是 20191004 增发的 5m USDT，下一次增发时间可以重点关注下。
+stable-token is the necessity of digital exchange, but by now, USDT is still the most popular stable-coin.
+
+after all, in the area of stable-coin, the decentrelized solution can not compare with the historic brand company, even though the tech of new stable-coin is more advanced.
+
+in my opinion, USDT-in-eos is critical for the liquidity in eos. 
+
+now 5251000 USDT has been issued, and the recent issue time is 201910004, is a long time to now. so we can pay attention to the next issue time. 
+maybe it can bring something exciting to the eos-chain.
 
 #### [USN](https://bloks.io/account/danchortoken)
 
