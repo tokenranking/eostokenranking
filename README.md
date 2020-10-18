@@ -423,5 +423,8 @@ U+生活服务平台。现在的山寨币都不伪装了吗？
 
 #### [TBD](http://www.vwwiksf.cn/)
 
-Valueless.
+valueless.
 
+#### [BAP](https://www.bap.bet/home)
+
+gambling, valueless.
