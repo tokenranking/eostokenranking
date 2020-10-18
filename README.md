@@ -103,8 +103,10 @@ EOS链上第一个不可变合约，也就是已经把合约账号的owner key�
 
 #### [NDX](https://newdex.zendesk.com/hc/zh-cn/articles/360021256251-Newdex平台生态通证介绍)
 
-Newdex的代币，卖点和BNB一样都是回购，缺点就是Newdex目前的成交和利润是在太低，所以回购的比例一直非常不给力，几乎处于忽略不计的状态。
-不过按我观察，Newdex算是战斗力比较强的团队，一直在做事（虽然目前来看这句话已经是贬义词了）。今天还上了Newdex OTC，我觉得还是值得关注的。BNB成名于2017年的牛市，如果币圈还有牛市的话，NDX是值得关注的币种。
+The token of Newdex, and its selling point is buy-back, just like BNB. 
+But Newdex's much smaller than Binance. so its buy-back is not as attractive as BNB. 
+
+But according to my observation, Newdex Team are doing the right thing and working hard. so it has some potential. it deserves to be paid attention to .
 
 ### 『4分』⭐️⭐️⭐️⭐️
 
