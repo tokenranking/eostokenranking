@@ -81,8 +81,9 @@ maybe it can bring something exciting to the eos-chain.
 
 #### [USN](https://bloks.io/account/danchortoken)
 
-去中心化稳定币。最近这个概念很火，但是个人之前更看好的 USDT 这种靠历史口碑攒起来的品牌信用出的币。
-但是 USN 其实等于 【智能合约】+【Newdex交易所品牌背书】。值得关注。
+Decentralized stable coin is hot recently, USN is one of them. 
+but i think USDT which has the historic credit is better than USN. 
+USN = smart contract + Newdex brand quality guarantee. 
 
 #### pEOS
 
