@@ -181,7 +181,7 @@ starteos 的股份币？会员币？没找到这个币的介绍，也没看出�
 
 可能是一个eos上的乌托邦，理想是美好的，现实是残酷的。
 
-#### [VIG](https://vig.ai/VIGOR.pdf)
+#### [VIG](https://vig.ai/VIGOR.pdf)/[VIGOR](https://vigor.ai/)
 
 The official website and whitepaper are both good, trying to solve the debit and credit. the direction of it is good too. 
 
