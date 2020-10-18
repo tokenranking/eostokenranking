@@ -377,24 +377,23 @@ dice平台上的积分代币，没太大意思，主要是起到比较喜庆的�
 
 #### [TB](http://tbkao.com/)
 
-点进去[官网](http://tbkao.com/)看了下，这个币韭菜含量100%。
-
+Opened the website of it, 'oh my eyes'
 
 #### [GRD](https://eosgrand.io/)
 
-打开官网，浓浓韭菜味，直觉告诉我应该立马退出。
+Opened the website of it, 'oh my eyes' again.
 
 #### XDAP
 
-博彩，博彩，还是博彩。
+gambling, valueless.
 
 #### DS
 
-号称要做区块链上的 App Store，真是想多了，朋友。
+Aims to become App Store on Chain. you must be kidding me, bro.
 
 #### TEA
 
-一个字，好山寨的山寨币。
+Coins For TEA? you must be kidding me. 
 
 #### ANC
 
@@ -406,20 +405,19 @@ dice平台上的积分代币，没太大意思，主要是起到比较喜庆的�
 
 #### ECTT
 
-致力于解决钻石跨境贸易中存在的诚信、付款、账期等问题。
-官网真的难以用汉语表达。突然回想到牛市到熊市的演化过程了，内心韭韭不能平静。
+Diamond? Copycat.
 
 #### SEED
 
-大麻工业溯源系统。也是个蹭概念的主无疑。
+Seed industry tracing system. Copycat. 
 
 #### [LDSR](http://ldsr.org.cn/)
 
-好久没见到这么山寨的币了，一目了然地山寨着。
+Valueless.
 
 #### [UU](http://www.ulive.plus/)
 
-U+生活服务平台。现在的山寨币都不伪装了吗？
+U+ Platform for life service. Copycat.
 
 #### [TBD](http://www.vwwiksf.cn/)
 
