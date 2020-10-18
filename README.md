@@ -183,7 +183,9 @@ starteos 的股份币？会员币？没找到这个币的介绍，也没看出�
 
 #### [VIG](https://vig.ai/VIGOR.pdf)
 
-官网和白皮书完成度都不错，解决抵押借贷问题，方向也没问题，但是代币分配不够去中心化，智能合约目前也没有去中心化。
+The official website and whitepaper are both good, trying to solve the debit and credit. the direction of it is good too. 
+
+but the token distribution is not decentralized enough. 
 
 #### [BET](https://eosbet.io/)
 
