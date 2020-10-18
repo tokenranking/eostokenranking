@@ -293,6 +293,10 @@ dice平台上的积分代币，没太大意思，主要是起到比较喜庆的�
 
 从 MARF [官网](https://marf.io/) 看不到任何和 [Newdex上币介绍](https://newdex.zendesk.com/hc/zh-cn/articles/360038039172-Newdex%E4%B8%8A%E7%BA%BF-MARF-EOS-%E6%96%B0%E4%BA%A4%E6%98%93%E5%AF%B9) 对得上的资料。what happened?
 
+#### [DFS](https://www.defis.network/)
+
+defi concept, but its purpose and vision is too huge to achieve. i don't think it will last long. 
+
 #### [CRG and MICH](https://newdex.zendesk.com/hc/zh-cn/articles/360038072512-Newdex%E4%B8%8A%E7%BA%BF-CRG-EOS-MICH-EOS-%E6%96%B0%E4%BA%A4%E6%98%93%E5%AF%B9)
 
 慈善捐赠概念，目的让捐赠者也有利可图？这个听起来不太能理解。2分观察吧。
