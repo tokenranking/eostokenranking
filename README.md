@@ -341,15 +341,15 @@ dice平台上的积分代币，没太大意思，主要是起到比较喜庆的�
 
 #### [TDC](https://trendercoin.com/)
 
-社交概念，不看好。
+Social concept, valueles.
 
 #### [ROR](http://roruniverse.com/)
 
-游戏概念，不看好。
+Game concept, valueless.
 
 #### [PUP](http://puppygo.one/)
 
-游戏概念：养狗。。。不看好。
+Game concept, keeping dogs. valueless.
 
 ### 『0分』
 
@@ -357,7 +357,7 @@ dice平台上的积分代币，没太大意思，主要是起到比较喜庆的�
 
 #### [SOUL](https://www.chainzarena.com/game/)
 
-游戏概念，山寨味较浓。
+Game concept, and sucks.
 
 #### DEFI
 
@@ -369,11 +369,11 @@ dice平台上的积分代币，没太大意思，主要是起到比较喜庆的�
 
 #### PTI
 
-钱包？如果这个团队是真的在做钱包的话，那么从2017年做到现在，那么该得多失败才能做的这么一点名气都没有。
+Wallet ? from 2017? sucks.
 
 #### SAND
 
-看了下官网和白皮书，四个字，不知所云。
+hard to understand. 
 
 #### [TB](http://tbkao.com/)
 
