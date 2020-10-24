@@ -87,9 +87,13 @@ USN = smart contract + Newdex brand quality guarantee.
 
 #### pEOS
 
-目前为止，看的最顺溜的eos token白皮书，应该没有之一。非常简明扼要，明确解决的用户痛点就是隐私，也就是不可追踪的交易。类似产品就到zCash等，优点就是建立在eos上，可以复用eos的生态和高性能优势。
+so far, that should be one of the most smooth whitepapers which i ever read, very concise. it means to solve the privacy problem which is one of the user's pain point. clearly, it will develop untraceable transactions for it. similar products are zCash etc.
+and pEOS's advantage is based on eos chain, so it can reuse the ecological and high-performance advantages of eos. 
 
-空投也比较有诚意，80%空投给eos持有者，团队留20%，白皮书也提到等智能合约ready后，会把合约账号变成不可变账号。并把合约代码开源。去中心化诚意足够。
+air-drops are also more sincere. 80% of the air-drops are given to eos holders, and the team keeps 20%.
+
+the white papers also mentioned that after the smart contract is ready, the contract account will become immutable account, and open source the contract code. 
+
 
 #### [SOV](https://www.soveos.one/)
 
