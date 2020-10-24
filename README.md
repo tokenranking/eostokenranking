@@ -239,6 +239,10 @@ but the token distribution is not decentralized enough.
 
 这个币有点唬，目测是类似USDT的稳定币，不是很感兴趣。
 
+#### [OGX](https://ogx.network/#/)
+
+The official website is alright, but the overall feeling is not good, and its roadmap is not very reliable. 
+
 #### HVT
 
 区块链上的找工作平台，白皮书写的不错，但是方向确实还是悬，毕竟，找工作平台能成功的核心不在于是否是去中心化或者是否是链上公证，也不是什么回馈社区，而是把撮合做好，区块链对这个方向的创业没有太大帮助，应该是没啥戏。
