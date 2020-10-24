@@ -119,7 +119,7 @@ But according to my observation, Newdex Team are doing the right thing and worki
 it is DeFi application platform on EOS, initied and managed by the Defibox Foundation, and also funded and supported by Newdex. 
 so this project deserves attention and needs some time to oberve. 
 
-### 『4分』⭐️⭐️⭐️⭐️
+### ⭐️⭐️⭐️⭐️
 
 ---
 
@@ -182,7 +182,7 @@ zigzag是双胞胎币，背景是目前区块链的稳定币比如usdt并不是�
 
 SOVDEX 是 SOV 团队做的去中心化交易所，对 SOV 我是看好的，但是对于 SOVDEX 不看好，交易所已经有了 Newdex，不理解为啥还需要为代币专门做一个 Dex。有些为了做而做。
 
-### 『3分』⭐️⭐️⭐️
+### ⭐️⭐️⭐️
 
 ---
 
@@ -231,7 +231,7 @@ but the token distribution is not decentralized enough.
 
 区块链上的阿里巴巴？官网完成度不错，目标也很远大，但是区块链现在如果类比互联网的话，应该是属于连 TCP/IP 协议都还没完成的状态，这个时候做商务平台，感觉时机不太成熟，希望不大。
 
-### 『2分』⭐️⭐️
+### ⭐️⭐️
 
 ---
 
@@ -326,7 +326,7 @@ defi concept, but its purpose and vision is too huge to achieve. i don't think i
 
 社交媒体概念，实在不看好。2分观察。
 
-### 『1分』⭐️
+### ⭐️
 
 ---
 
@@ -376,84 +376,34 @@ Game concept, valueless.
 
 Game concept, keeping dogs. valueless.
 
-### 『0分』
+### 『0 ⭐️』
+
+0 point does not need a reason. 
 
 ---
 
-#### [DMD](https://dmd.finance/),[YFC](https://www.yfc.one/),[CRL](https://crl.finance/), [WRAM](https://crl.finance/wram), [DBC](https://dbc.yfc.one/)
-
-these websites are the same, that is weird and unreliable. 
-
+#### [DMD](https://dmd.finance/)
+#### [YFC](https://www.yfc.one/)
+#### [CRL](https://crl.finance/)
+#### [WRAM](https://crl.finance/wram)
+#### [DBC](https://dbc.yfc.one/)
+#### [WOOL](https://wool.finance/)
 #### [FLX](https://felixball.io/)
-
 #### [SOUL](https://www.chainzarena.com/game/)
-
-Game concept, and sucks.
-
 #### DEFI
-
-区块链上的基金，白皮书纯中文，规则很复杂，大概就是用eos换取defi作为基金份额，然后根据份额分红，但是基金的核心卖点在于投资收益，白皮书只看到各种份额和分红的复杂玩法，没看到投资收益的手段优势是什么。目测还是蹭概念割韭菜的。
-
 #### [APX](https://appics.com/downloads/Appics_Whitepaper.pdf)
-
-打开官网的时候我想给1分，看完白皮书我就只想给0分了。拿社交概念割韭菜已经过时了。
-
 #### PTI
-
-Wallet ? from 2017? sucks.
-
 #### SAND
-
-hard to understand. 
-
 #### [TB](http://tbkao.com/)
-
-Opened the website of it, 'oh my eyes'
-
 #### [GRD](https://eosgrand.io/)
-
-Opened the website of it, 'oh my eyes' again.
-
 #### XDAP
-
-gambling, valueless.
-
 #### DS
-
-Aims to become App Store on Chain. you must be kidding me, bro.
-
 #### TEA
-
-Coins For TEA? you must be kidding me. 
-
 #### ANC
-
-区块链数字拍卖平台，咦，谁在办公室吃韭菜包子？
-
 #### EAP
-
-蹭的概念是拍卖平台，一个字，伪装得很努力的山寨币。
-
 #### ECTT
-
-Diamond? Copycat.
-
 #### SEED
-
-Seed industry tracing system. Copycat. 
-
 #### [LDSR](http://ldsr.org.cn/)
-
-Valueless.
-
 #### [UU](http://www.ulive.plus/)
-
-U+ Platform for life service. Copycat.
-
 #### [TBD](http://www.vwwiksf.cn/)
-
-valueless.
-
 #### [BAP](https://www.bap.bet/home)
-
-gambling, valueless.
