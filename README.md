@@ -382,7 +382,9 @@ Game concept, keeping dogs. valueless.
 
 #### [DMD](https://dmd.finance/),[YFC](https://www.yfc.one/),[CRL](https://crl.finance/), [WRAM](https://crl.finance/wram)
 
-weird.
+these websites are the same, that is weird and unreliable. 
+
+#### [FLX](https://felixball.io/)
 
 #### [SOUL](https://www.chainzarena.com/game/)
 
