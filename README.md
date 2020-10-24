@@ -114,6 +114,11 @@ But Newdex's much smaller than Binance. so its buy-back is not as attractive as 
 
 But according to my observation, Newdex Team are doing the right thing and working hard. so it has some potential. it deserves to be paid attention to .
 
+#### [BOX](https://danchor.io/)
+
+it is DeFi application platform on EOS, initied and managed by the Defibox Foundation, and also funded and supported by Newdex. 
+so this project deserves attention and needs some time to oberve. 
+
 ### 『4分』⭐️⭐️⭐️⭐️
 
 ---
