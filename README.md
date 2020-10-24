@@ -382,6 +382,7 @@ Game concept, keeping dogs. valueless.
 
 ---
 
+#### [SET](http://dappv2.adset.xyz/)
 #### [DMD](https://dmd.finance/)
 #### [YFC](https://www.yfc.one/)
 #### [CRL](https://crl.finance/)
