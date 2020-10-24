@@ -97,13 +97,15 @@ the white papers also mentioned that after the smart contract is ready, the cont
 
 #### [SOV](https://www.soveos.one/)
 
-目前来看EOS连上最有诚意和创意的代币，很新的概念。
+SOV is a very creative token on the EOS chain, with a very new concept: Deflation.  
 
-划重点:  
+The key points are as follows:
 
-通缩，交易的时候会按费率焚毁代币，直到总量从10亿下降到2100万。  
-82%空投给创世账号，每个创世账号可以领取5k的量，去中心化含量高。    
-EOS链上第一个不可变合约，也就是已经把合约账号的owner key权限设置成了 eosio 账号，只有超级节点投票超过15/21比例才能对其进行修改。
+because of the deflation, when trading, SOV tokens will be burn at the rate, until the total amount drops from 1 billion to 21 million. 
+
+82% of the airdrops are given to the EOS creation account, and each creation account can receive 5k SOV, so it is highly decentralized. 
+
+its contract is the first immutable contract on the EOS chain, that is, the owner key authority of contract account has been set to the eosio account, and it only can be modified if the blockproducer node votes more than 15/21. 
 
 #### [NDX](https://newdex.zendesk.com/hc/zh-cn/articles/360021256251-Newdex平台生态通证介绍)
 
