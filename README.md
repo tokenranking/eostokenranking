@@ -380,6 +380,10 @@ Game concept, keeping dogs. valueless.
 
 ---
 
+#### [DMD](https://dmd.finance/),[YFC](https://www.yfc.one/),[CRL](https://crl.finance/), [WRAM](https://crl.finance/wram)
+
+weird.
+
 #### [SOUL](https://www.chainzarena.com/game/)
 
 Game concept, and sucks.
