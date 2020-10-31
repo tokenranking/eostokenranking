@@ -370,6 +370,10 @@ did not find its website.
 
 解决的需求不明确，想在区块链上面做数据库，45%的币空投，其他的币全部用来做项目建设，也就是类似发工资。但是项目建设的前景又不清楚，目前看成功的概率不大。
 
+#### [HBG](https://hbg.finance/)
+
+boring DeFi
+
 #### [TDC](https://trendercoin.com/)
 
 Social concept, valueles.
