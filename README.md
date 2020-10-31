@@ -328,6 +328,10 @@ defi concept, but its purpose and vision is too huge to achieve. i don't think i
 
 社交媒体概念，实在不看好。2分观察。
 
+### [HUB](https://bloks.io/account/eoshubtokens)
+
+did not find its website.
+
 ### ⭐️
 
 ---
