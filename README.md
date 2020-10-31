@@ -123,9 +123,12 @@ so this project deserves attention and needs some time to oberve.
 
 ---
 
-#### [pBTC](https://ptokens.io/)
+#### [pTokens](https://ptokens.io/)
 
-pTokens has a Good sense of technology. [GitHub](https://github.com/provable-things)
+pTokens has a Good sense of technology. [GitHub](https://github.com/provable-things), it aims to build a cross-chain DeFi platform. 
+there are many tokens on that, such as pBTC, pETH, pLTC and so on. 
+
+it is a good idea but it need a lot of effort to make it come true. 
 
 #### [AMT](https://enumivo.org/blog/2020/3/1/amt-anti-mining-token-airdrop)
 
