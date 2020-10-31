@@ -403,7 +403,7 @@ Game concept, valueless.
 
 Game concept, keeping dogs. valueless.
 
-#### [COW](https://bloks.io/account/cowtokencode#keys)
+#### [COW](https://bloks.io/account/cowtokencode#keys),[MILK](https://bloks.io/account/milktokencde)
 
 ### 『0 ⭐️』
 
