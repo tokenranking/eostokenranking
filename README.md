@@ -399,6 +399,7 @@ Game concept, keeping dogs. valueless.
 
 ---
 
+#### [TIME](http://timemine.xloot.io/)
 #### [YMC](http://mooncake.network/)
 #### [DOP](https://support.newdex.net/hc/en-us/articles/360049927471-Newdex-Lists-DOP-EOS-Trading-Pair-Officially)
 #### [ONES](https://defi.ones.game/)
