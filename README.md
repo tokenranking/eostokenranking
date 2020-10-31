@@ -383,7 +383,7 @@ Game concept, keeping dogs. valueless.
 0 point does not need a reason. 
 
 ---
-
+#### [DOP](https://support.newdex.net/hc/en-us/articles/360049927471-Newdex-Lists-DOP-EOS-Trading-Pair-Officially)
 #### [ONES](https://defi.ones.game/)
 #### [RAB](https://www.rabbits.finance/Home)
 #### [SET](http://dappv2.adset.xyz/)
