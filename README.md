@@ -125,9 +125,11 @@ so this project deserves attention and needs some time to oberve.
 
 #### [AMT](https://enumivo.org/blog/2020/3/1/amt-anti-mining-token-airdrop)
 
-EIDOS 团队出品，和 EIDOS 逆着来，按 REX 量的挖矿，可以理解是为了解决目前 EOS CPU 挖矿影响了正常的生产稳定性。
-但是比较奇怪的一点是 AMT 的挖矿时间特别短，4 月份出来，5 月 1 号就截止了。热度差了 EIDOS 几个数量级，
-大家应该对于这类概念已经感觉疲惫了吧。
+Produced by the EIDOS team too, contrary to EIDOS token, mining according to the amount of REX, to solve the problem that the current EOS CPU mining affects the normal 
+production stability. 
+but the weird thing is that the mining period of AMT is very short. it comes out in April, and ends on May 1st. its popularity is not as good as EIDOS. 
+
+everyone should be tired of such concepts. 
 
 #### [EOSLP](https://enumivo.org/blog/2019/11/7/more-codex-details)
 
