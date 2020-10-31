@@ -346,6 +346,9 @@ did not find its website.
 
 电商代币，这官网仿佛 90 年代的电商网站，让我差点穿越回去。
 
+
+#### [LOOT](https://bloks.io/account/lootglobcore)
+
 #### [DMC](https://eospark.com/account/weedcashntwk)
 
 训龙大师游戏币，持币分红，方向不看好，游戏是用来娱乐的，不是用来赚钱的。
