@@ -407,6 +407,7 @@ Game concept, keeping dogs. valueless.
 
 ---
 
+#### [SSC](https://seashell.cc/)
 #### [TIME](http://timemine.xloot.io/)
 #### [YMC](http://mooncake.network/)
 #### [ONES](https://defi.ones.game/)
