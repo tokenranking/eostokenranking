@@ -384,6 +384,7 @@ Game concept, keeping dogs. valueless.
 
 ---
 
+#### [ONES](https://defi.ones.game/)
 #### [RAB](https://www.rabbits.finance/Home)
 #### [SET](http://dappv2.adset.xyz/)
 #### [DMD](https://dmd.finance/)
