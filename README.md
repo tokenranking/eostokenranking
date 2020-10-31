@@ -117,11 +117,15 @@ But according to my observation, Newdex Team are doing the right thing and worki
 #### [BOX](https://danchor.io/)
 
 it is DeFi application platform on EOS, initied and managed by the Defibox Foundation, and also funded and supported by Newdex. 
-so this project deserves attention and needs some time to oberve. 
+so this project deserves attention and needs some time to oberve.
 
 ### ⭐️⭐️⭐️⭐️
 
 ---
+
+#### [pBTC](https://ptokens.io/)
+
+pTokens has a Good sense of technology. [GitHub](https://github.com/provable-things)
 
 #### [AMT](https://enumivo.org/blog/2020/3/1/amt-anti-mining-token-airdrop)
 
@@ -187,6 +191,8 @@ SOVDEX 是 SOV 团队做的去中心化交易所，对 SOV 我是看好的，但
 ### ⭐️⭐️⭐️
 
 ---
+
+#### [DOP](https://bloks.io/account/dolphintoken#keys)
 
 #### [PUML](https://puml.io/)
 
@@ -346,7 +352,6 @@ did not find its website.
 
 电商代币，这官网仿佛 90 年代的电商网站，让我差点穿越回去。
 
-
 #### [LOOT](https://bloks.io/account/lootglobcore)
 
 #### [DMC](https://eospark.com/account/weedcashntwk)
@@ -401,7 +406,6 @@ Game concept, keeping dogs. valueless.
 
 #### [TIME](http://timemine.xloot.io/)
 #### [YMC](http://mooncake.network/)
-#### [DOP](https://support.newdex.net/hc/en-us/articles/360049927471-Newdex-Lists-DOP-EOS-Trading-Pair-Officially)
 #### [ONES](https://defi.ones.game/)
 #### [RAB](https://www.rabbits.finance/Home)
 #### [SET](http://dappv2.adset.xyz/)
