@@ -144,7 +144,8 @@ EIDOS 做的 [Codex](https://enumivo.org/blog/2019/11/7/more-codex-details) 的�
 
 #### [POWX](https://powh.fund/)
 
-POW 的交易所，官网完成度高，可惜方向一般，真想问一句，为啥每个币都想做交易所，难道不知道交易所最需要的是流量吗，现在代币自己的流量都这么少得可怜。做交易所没戏。
+The Exchange based on POW, its official website is well, but its direction is just so-so. i am so wonder why so many token builder want to build the exchange? building exchange  is so hard to succeed. 
+
 
 #### [SPEECH](https://github.com/cantstopwondering/speech)
 
