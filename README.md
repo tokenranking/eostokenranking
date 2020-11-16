@@ -41,6 +41,8 @@ Advantage:
 + No preserving shares for team. 
 + The Authority of its contract account is set by eosio, so it is decentralised. 
 
+Refs: [bloks](https://bloks.io/tokens/POW-eos-eosiopowcoin) 
+
 #### [EIDOS](https://enumivo.org/get-free-eidos)
 
 token distributuon: 20% for team , 80% for the air-drop.
