@@ -6,11 +6,9 @@ Writing a ranked eos token list, in my personal opionion.
 
 Objective:
 
-group by 0~5 star, so there are 6 classes totally.
-
-- 5~4 star：potential and high quality
-- 3~2 star：medium, and remain to be observed
-- 1~0 star：trash and worthless
+- ⭐️⭐️⭐️：potential and high quality
+- ⭐️⭐️：medium, and remain to be observed
+- ⭐️：trash and worthless
 
 Features: 
 
@@ -27,7 +25,7 @@ Try my best to cover all of tokens launched at Newdex.
 
 ## Ranking
 
-### ⭐️⭐️⭐️⭐️⭐️
+### ⭐️⭐️⭐️
 
 ---
 
@@ -121,10 +119,6 @@ But according to my observation, Newdex Team are doing the right thing and worki
 it is DeFi application platform on EOS, initied and managed by the Defibox Foundation, and also funded and supported by Newdex. 
 so this project deserves attention and needs some time to oberve.
 
-### ⭐️⭐️⭐️⭐️
-
----
-
 #### [pTokens](https://ptokens.io/)
 
 pTokens has a Good sense of technology. [GitHub](https://github.com/provable-things), it aims to build a cross-chain DeFi platform. 
@@ -195,7 +189,7 @@ zigzag是双胞胎币，背景是目前区块链的稳定币比如usdt并不是�
 
 SOVDEX 是 SOV 团队做的去中心化交易所，对 SOV 我是看好的，但是对于 SOVDEX 不看好，交易所已经有了 Newdex，不理解为啥还需要为代币专门做一个 Dex。有些为了做而做。
 
-### ⭐️⭐️⭐️
+### ⭐️⭐️
 
 ---
 
@@ -249,10 +243,6 @@ but the token distribution is not decentralized enough.
 #### [WAX](https://wax.io/)
 
 区块链上的阿里巴巴？官网完成度不错，目标也很远大，但是区块链现在如果类比互联网的话，应该是属于连 TCP/IP 协议都还没完成的状态，这个时候做商务平台，感觉时机不太成熟，希望不大。
-
-### ⭐️⭐️
-
----
 
 #### KARMA
 
@@ -408,10 +398,6 @@ Game concept, valueless.
 Game concept, keeping dogs. valueless.
 
 #### [COW](https://bloks.io/account/cowtokencode#keys),[MILK](https://bloks.io/account/milktokencde)
-
-### 『0 ⭐️』
-
----
 
 #### [PTO](https://bloks.io/account/ptotokencore)
 #### [SSC](https://seashell.cc/)
