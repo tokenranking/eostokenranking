@@ -142,7 +142,8 @@ everyone should be tired of such concepts.
 
 #### [EOSLP](https://enumivo.org/blog/2019/11/7/more-codex-details)
 
-EIDOS 做的 [Codex](https://enumivo.org/blog/2019/11/7/more-codex-details) 的衍生代币，用来赚取 EIDOS/EOS 交易对的手续费。Codex 这个项目有点大，前路艰辛。
+EOSLP is the token in [Codex](https://enumivo.org/blog/2019/11/7/more-codex-details), it can be used to earn the fees in EIDOS/EOS trading pair. 
+But Codex is hard to succeed, so EOSLP has a tough future. 
 
 #### [POWX](https://powh.fund/)
 
