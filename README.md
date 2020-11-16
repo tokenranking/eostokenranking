@@ -146,15 +146,20 @@ The Exchange based on POW, its official website is well, but its direction is ju
 
 #### [SPEECH](https://github.com/cantstopwondering/speech)
 
-这个币有点搞笑，技术上也是走 GitHub Readme 风格。项目很好懂，也是 EIDOS 的抄袭者之一，就是调用合约进行『发言』挖矿。
-与其说是『发言』挖矿，不如说是『骂街』挖矿，而且是针对 b1 的『骂街』挖矿。Readme 开头就是『Dear all helpless EOS holders ...』。
-而且更搞笑的是，这个作者还跑去 eosio/eos 的 [issue](https://github.com/EOSIO/eos/issues/8395#event-2921899635) 上宣传。
-感觉 b1 应该非常 what the fuck ...
-这个项目的介绍语上写的是『Silence is silver, speech is golden.』，翻译过来就是『沉默是银，骂街是金』。哈哈
+It is a very funny token, and it has a GitHub ReadMe style technology.
+It is easy to understand, likely with EIDOS. it means to it can be mined by calling contract. and its contract api's name is 'speech'.
 
-想象下如果这个项目和 EIDOS 一样火爆的话，不知道 [b1](https://eospark.com/account/b1) 的 [Actions](https://eospark.com/account/b1) 记录里面要收集多少五湖四海的『问候』。
+The beginning of the Readme is "Dear all helpless EOS holders ..."
 
-真的是莫名的喜感。
+What's even more funny is that the author also went to eosio/eos's [issue](https://github.com/EOSIO/eos/issues/8395#event-2921899635) to promote it. 
+
+I feel b1 should be very 'what the fuck...'.
+
+The introduction of this project says 'Silence is silver, speech is golden.', funny, haha.
+
+Imagine if this project is as popular as EIDOS, i don not know the [Actions](https://eospark.com/account/b1) records to be collected How many 'greets' from all over the world.
+
+that is so funny.
 
 #### [RUTM](https://github.com/baromjon/ramupthemoon)
 
