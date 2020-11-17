@@ -172,10 +172,12 @@ However, it is still a sincere contract for now, so keep watching.
 
 #### pixEOS
 
-创意很赞，简单介绍就是提供一个全世界唯一的画布，在这个画布上面可以用eos对任意像素进行填色来涂鸦，不过具体每一个像素的eos费用会随着画它的人越来越多而变得越来越高。
+It has a good sense of creativity. a brief introduction is to provide the only canvas in the world. 
+and anyone can spend their eos to fill pixel any color in that canvas. and the eos cost of each pixel will become higher and higher as more and more people draw it. 
 
-其中pixeos代币也就是这个费用的中间通货，价格和这个画布使用频次强相关，使用频次又和这个画布的观看人次强相关。
-目前来看，价格表现一般。但是亮点确实是创意非常赞，值得学习。
+Among them, the pixEOS token is the intermediate currency of fee. The price is strongly related to the frequency of use of this canvas, and the frequency of use is strongly related to the number of people watching this canvas.
+
+At present, the price performance is average. but the highlight is that the creativily is really awesome and it is worth learning.
 
 #### [EMT](https://emanate.live/discover)
 
