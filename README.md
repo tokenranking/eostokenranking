@@ -163,8 +163,12 @@ that is so funny.
 
 #### [RUTM](https://github.com/baromjon/ramupthemoon)
 
-基本上就是 EIDOS 创意的延续，缺点是没啥创意，亮点是 GitHub 说明和代码开源都有一点点geek范。
-但是那句话叫：学我者生，抄我者？不过在币圈还算是有诚意的合约了，4分观察吧。
+Basically, it is the continuation of EIDOS's creativity.
+The highlight is that GitHub instructions and open-sourced code have a little geek style. 
+
+But that sentence is : those who learn from me live, those who copy me ?
+
+However, it is still a sincere contract for now, so keep watching.
 
 #### pixEOS
 
