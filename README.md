@@ -181,7 +181,11 @@ At present, the price performance is average. but the highlight is that the crea
 
 #### [EMT](https://emanate.live/discover)
 
-网站完成度最高的一个token，这个应用更像是本来就是一个很好的小众音乐交流网站，目的是为音乐创作者和听众搭建一个平台，token只是这个平台的一个去中心化股票或者投票权。作为一个应用，我觉得是挺不错的的方向，但是是否真的需要去中心化，我感觉可能并没这个必要。所以整体来说优点是网站完成度高，团队能力不错，缺点是可能不太需要区块链来解决这个问题。
+It has a good official website, this app is more like a good music communication site, the purpose is to build a platform for music creators and listeners.
+
+EMT token is only a decentralized stock or vote of this platform. As an application, i think it is a good direction, but whether it really needs to be decentralized, i think it may not be necessary. 
+
+overall, the advantage is that the website is highly completed and the team is good, but the disadvantage is that blockchain may not be needed to solve this problem.
 
 #### PIZZA-USDE
 
