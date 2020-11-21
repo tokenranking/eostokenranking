@@ -189,11 +189,13 @@ overall, the advantage is that the website is highly completed and the team is g
 
 #### PIZZA-USDE
 
-PIZZA-USDE 是一款基于 EOS 的双代币稳定币系统，又一个稳定币解决方案，usdt真的有那么不好吗，感觉是各路诸侯讨伐的对象，或者说新的稳定币方案，真的比usdt比起来优势大很多吗？对于普通用户，习惯还是难改，usdt就是那个难改的习惯。个人认为，在usdt出明显问题之后，其他稳定币才会有希望。否则，希望不大。
+PIZZA-USD is a stable-coin system based on EOS, yet another stable-coin solution. but is USDT really that bad? 
 
-而且看了下 PIZZA 的分配规则，去中心化诚意不高。
+For ordinary users, the habit is hard to change, and USDT is the habit. in my opinion, the other stablecoins (including PIZZA-USDE) will have hope after the USDT has big problems. Otherwise, there is little hope.
 
-补充一句，突然发现厦门的区块链团队好多，这个也是厦门区块链团队的作品，
+And after looking into the distribution rules of PIZZA, i dont think it has good decentralization thinking.
+
+To add, i suddenly found that there are many blockchain teams in Xiaman, this is also a product of the Xiamen blockchain team.
 
 #### ZigZag
 
