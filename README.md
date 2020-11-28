@@ -178,7 +178,7 @@ I feel b1 should be very 'what the fuck...'.
 
 The introduction of this project says 'Silence is silver, speech is golden.', funny, haha.
 
-Imagine if this project is as popular as EIDOS, i don not know the [Actions](https://eospark.com/account/b1) records to be collected How many 'greets' from all over the world.
+Imagine if this project is as popular as EIDOS, i don not know the [Actions](https://bloks.io/account/b1) records to be collected How many 'greets' from all over the world.
 
 that is so funny.
 
@@ -241,7 +241,7 @@ health concept
 
 Aims to provider the value of votes, so voters can get money from its eos vote. its direction is ok, but it is hard way to make it popular, because the exchanges will also do the same thing, so this is a highly competitive field. 
 
-#### [POOL](https://eospark.com/contract/stpool.eos?tab=analysis)
+#### [POOL](https://bloks.io/account/stpool.eos)
 
 starteos 的股份币？会员币？没找到这个币的介绍，也没看出发这个币的必要性？
 
@@ -304,7 +304,7 @@ The official website is alright, but the overall feeling is not good, and its ro
 以太坊上PRA代币的双胞胎币，从腾讯广告团队成员出来创业的区块链项目，思路就是让广告投放上链，让广告主的广告费直接分成到用户端，有点类似互联网的趣头条类似的增长的打法。
 但是问题在于，这样还是互联网项目的思路来做区块链，非常容易导致社区聚集一帮薅羊毛的用户群体，不利于长远发展。团队不错，但是方向可能还需要摸索。
 
-#### [STEEMP](https://eospark.com/account/steemoneosio)
+#### [STEEMP](https://bloks.io/account/steemoneosio)
 
 基于 steem-engine 上的一个代币，对于 steem 不太了解，目测像是 steem 上的币在 eos 链上映射的 1比1 的代币，观察吧。
 
@@ -389,11 +389,11 @@ did not find its website.
 
 #### [LOOT](https://bloks.io/account/lootglobcore)
 
-#### [DMC](https://eospark.com/account/weedcashntwk)
+#### [DMC](https://bloks.io/account/weedcashntwk)
 
 训龙大师游戏币，持币分红，方向不看好，游戏是用来娱乐的，不是用来赚钱的。
 
-#### [DAPPPRO](https://eospark.com/contract/dapp.pro?tab=analysis)
+#### [DAPPPRO](https://bloks.io/account/dapp.pro)
 
 没看到更多介绍，只能凭直觉或者说嗅觉来判断是韭菜包子了。
 
