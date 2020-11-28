@@ -135,6 +135,12 @@ But Newdex's much smaller than Binance. so its buy-back is not as attractive as 
 
 But according to my observation, Newdex Team are doing the right thing and working hard. so it has some potential. it deserves to be paid attention to .
 
+> 2020-11-28 
+> 24H Total Volume: 
+> 56980 EOS
+> 24901 USDT
+> 1896 USDⓈ
+
 #### [BOX](https://danchor.io/)
 
 it is DeFi application platform on EOS, initied and managed by the Defibox Foundation, and also funded and supported by Newdex. 
