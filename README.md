@@ -220,8 +220,9 @@ To add, i suddenly found that there are many blockchain teams in Xiaman, this is
 
 #### ZigZag
 
-zigzag是双胞胎币，背景是目前区块链的稳定币比如usdt并不是去中心化的稳定，而是人为的控制，zigzag想把稳定的实现通过智能合约来实现，zig作为每个链上的稳定币，zag作为智能合约的投票权，也就是表现为前者价格稳定，后者价格随着前者体量增长而可能增长。
-但是感觉就是这个目标有点大，想法不错，为了去中心化而生，但是用户真的有这个需求吗？持怀疑态度。
+ZigZag is a twin coin. The background is that the current blockchain stablecoins such as USDT are not decentralized and stable, but are controlled by humans. ZigZag wants to achieve stability through smart contract and Zig is the stablecoin of each chain, Zag is the voting right of the smart contract, which means that the price of the former is stable. 
+and the price of the latter may increase as the volume of the former increases. 
+But i feel that this goal is a bit big, the idea is good, and it was born for decentralization. but do the users really have this demand? i doubt it.
 
 #### [SVX](https://newdex.zendesk.com/hc/zh-cn/articles/360039219772-Newdex%E4%B8%8A%E7%BA%BF-SVX-EOS-%E6%96%B0%E4%BA%A4%E6%98%93%E5%AF%B9)
 
