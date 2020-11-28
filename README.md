@@ -226,7 +226,10 @@ But i feel that this goal is a bit big, the idea is good, and it was born for de
 
 #### [SVX](https://newdex.zendesk.com/hc/zh-cn/articles/360039219772-Newdex%E4%B8%8A%E7%BA%BF-SVX-EOS-%E6%96%B0%E4%BA%A4%E6%98%93%E5%AF%B9)
 
-SOVDEX 是 SOV 团队做的去中心化交易所，对 SOV 我是看好的，但是对于 SOVDEX 不看好，交易所已经有了 Newdex，不理解为啥还需要为代币专门做一个 Dex。有些为了做而做。
+SOVDEX is a decentralized exchange made by SOV team. 
+I am optimistic about SOV but I am not opmistic about SVX
+I don't think anyone should build a exchange for one token. And Newdex already is good enough for EOS tokens.
+
 
 ### ⭐️⭐️
 
