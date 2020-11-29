@@ -130,6 +130,11 @@ Decentralized stable coin is hot recently, USN is one of them.
 but i think USDT which has the historic credit is better than USN. 
 USN = smart contract + Newdex brand quality guarantee. 
 
+2020-11-29 log:
+
+Generated 2507491.2268 USN
+Stakes: 1588474.6393 EOS
+
 #### pEOS
 
 so far, that should be one of the most smooth whitepapers which i ever read, very concise. it means to solve the privacy problem which is one of the user's pain point. clearly, it will develop untraceable transactions for it. similar products are zCash etc.
@@ -167,8 +172,17 @@ But according to my observation, Newdex Team are doing the right thing and worki
 
 #### [BOX](https://defibox.io)
 
-it is DeFi application platform on EOS, initied and managed by the Defibox Foundation, and also funded and supported by Newdex. 
+it is DeFi application platform on EOS, initied and managed by the [Defibox](https://defibox.io) Foundation, and also funded and supported by Newdex. 
 so this project deserves attention and needs some time to oberve.
+
+2020-11-29 log:
+
+Total stakes: 760222.676304 BOX(61.99%)
+BOX Price 1.5417 EOS
+
+24H Swap: 633062.8217 EOS 
+Liquidity: 5426107.2290 EOS
+
 
 #### [pTokens](https://ptokens.io/)
 
