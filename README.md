@@ -41,17 +41,17 @@ Staked EOS 596,001,256
 2020-11-29 log:
 
 REX Liquidity: 
-89,697,880.1409 EOS
+89,697,880 EOS
 
 30 days/1 year interest: 
 0.0467%/0.5614%
 Total Borrowed: 
-52,835,808.9404 EOS (58.90%)
+52,835,808 EOS (58.90%)
 
 REX Price: 
 0.00010079 EOS / 1 REX
 Resource Price: 
-1 EOS Can Borrow 2,437.6090 EOS for 30 days
+1 EOS Can Borrow 2,437 EOS for 30 days
 
 #### [POW](https://github.com/NedAmarril/eosiopowcoin)
 
