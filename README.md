@@ -29,6 +29,30 @@ Try my best to cover all of tokens launched at Newdex.
 
 ---
 
+#### [EOS](https://bloks.io/)
+
+2020-11-29 log:
+
+Accounts: 2,158,298;
+Staked EOS 596,001,256
+
+#### [REX](https://bloks.io/rex)
+
+2020-11-29 log:
+
+REX Liquidity: 
+89,697,880.1409 EOS
+
+30 days/1 year interest: 
+0.0467%/0.5614%
+Total Borrowed: 
+52,835,808.9404 EOS (58.90%)
+
+REX Price: 
+0.00010079 EOS / 1 REX
+Resource Price: 
+1 EOS Can Borrow 2,437.6090 EOS for 30 days
+
 #### [POW](https://github.com/NedAmarril/eosiopowcoin)
 
 Do the mining things by eos cpu, just like EIDOS, but it has some advantage against EIDOS.  
