@@ -309,14 +309,15 @@ Didn't find the whitepaper, but the offical website is well, i will analyze it i
 
 #### SBET
 
-没有正规的白皮书是减分项，但是网站的完成度高，操作体验不错是加分项，可以质押SBET参与分红，目前的价格来看分红利润不错，需要再详细分析一下具体每天收益数据。整体感觉不错，但是需要确认sbet的分发规则，目前资料不太全，感觉并不透明，可能存在大户砸盘风险。
+Its website has a high degree of completion and a good operating experience. 
 
 #### DICE
 
-博彩概念，其实区块链确实是最适合博彩的平台，但是dice感觉想做成博彩入口，但是需要爆款，目前来看，似乎SBET更可能成为爆款。因为博彩范围太广。
-看了下dice的代笔分发规则，去中心化程度不足，大量代笔等着被挖出来，通缩性不足。
+The concept of gambling, in my opinion, the blockchain is indeed the best platform for gambling, 
+and DICE wants to be a gambling portal. at present, SBET is more likely to become a hit. 
 
-更偏向是博彩平台的分红票权，币值和博彩平台发展和规则制定者强相关，大资金应该不敢进入。
+After reading the DICE's token distribution rules, the degree of decentralization is insufficent, 
+and a large number of coins are waiting to be mined, and the deflation is insufficient.
 
 #### TPT
 
