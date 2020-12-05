@@ -325,20 +325,16 @@ Actually, TokenPocket is indeed the best wallet on the EOS chain at the present.
 
 #### [GOVRN](https://consortium.live/)
 
-场景是 DAC 的投票优化，官网完成度还可以，但是还是无法理解的是目前 DAC 如此小众，没看到什么前景，专门为 DAC 做这些东西，其实增加了很多复杂度和理解成本，收益有限，个人认为这个事情的价值有限。
-
-#### [WAX](https://wax.io/)
-
-区块链上的阿里巴巴？官网完成度不错，目标也很远大，但是区块链现在如果类比互联网的话，应该是属于连 TCP/IP 协议都还没完成的状态，这个时候做商务平台，感觉时机不太成熟，希望不大。
+The scenario is the optimization of DAC voting. The completion of the official website is not bad, but it is still not understood that the current DAC is so small and there is no prospect. Doing these things specifically for DAC actually adds a lot of complexity and understanding costs, and the benefits are limited. , I personally think that the value of this matter is limited.
 
 #### KARMA
 
-社交概念，其实不太理解为什么国外的区块链项目都这么心心念念社交。用karma来作为社交互动行为的激励积分，来引导社区氛围往好的方向发展。但是这里有个不可调和的矛盾，社区需要养，而如果用积分来激励的话，大家来社区是为了赚币，那这个社区不可能往好的方向发展。
-所以目前觉得，社交积分激励方向，应该不是区块链优势的方向。
+The concept of socialization, in fact, does not understand why foreign blockchain projects are so eager to socialize. Use karma as the incentive points for social interaction behaviors to guide the community atmosphere in a good direction. But there is an irreconcilable contradiction here. The community needs to support it. If points are used to motivate, everyone comes to the community to earn money, and the community cannot develop in a good direction.
+Therefore, it is currently felt that the direction of social points incentives should not be the direction of blockchain advantage.
 
 #### [PAXE](https://www.paxos.com/pax/)
 
-这个币有点唬，目测是类似USDT的稳定币，不是很感兴趣。
+This coin is a bit ridiculous. It is a stable coin similar to USDT, so I am not very interested.
 
 #### [OGX](https://ogx.network/#/)
 
@@ -346,16 +342,16 @@ The official website is alright, but the overall feeling is not good, and its ro
 
 #### HVT
 
-区块链上的找工作平台，白皮书写的不错，但是方向确实还是悬，毕竟，找工作平台能成功的核心不在于是否是去中心化或者是否是链上公证，也不是什么回馈社区，而是把撮合做好，区块链对这个方向的创业没有太大帮助，应该是没啥戏。
+The job search platform on the blockchain is well written in the white paper, but the direction is indeed still hanging. After all, the core of the success of the job search platform is not whether it is decentralized or notarized on the chain, nor is it giving back to the community. It is to do a good job of matching. Blockchain is not very helpful to entrepreneurship in this direction. It should be nothing.
 
 #### EPRA
 
-以太坊上PRA代币的双胞胎币，从腾讯广告团队成员出来创业的区块链项目，思路就是让广告投放上链，让广告主的广告费直接分成到用户端，有点类似互联网的趣头条类似的增长的打法。
-但是问题在于，这样还是互联网项目的思路来做区块链，非常容易导致社区聚集一帮薅羊毛的用户群体，不利于长远发展。团队不错，但是方向可能还需要摸索。
+The twin coin of the PRA token on Ethereum, a blockchain project started by members of Tencent's advertising team, the idea is to put advertisements on the chain, so that advertisers' advertising fees are directly divided into users, similar to the Internet's interesting headlines. The growth of play.
+But the problem is that this is still the idea of an Internet project to build a blockchain, which is very easy to cause the community to gather a bunch of woolen user groups, which is not conducive to long-term development. The team is good, but the direction may need to be explored.
 
 #### [STEEMP](https://bloks.io/account/steemoneosio)
 
-基于 steem-engine 上的一个代币，对于 steem 不太了解，目测像是 steem 上的币在 eos 链上映射的 1比1 的代币，观察吧。
+Based on a token on steem-engine, I don't know much about steem. Visually, it looks like a 1:1 token mapped from steem on the eos chain. Observe.
 
 #### [WEED](http://weedcash.io/)
 
@@ -363,7 +359,7 @@ it is hard to understand.
 
 #### [LMC](http://luckyminer.one/)
 
-其实就是基于区块链的彩票，我理解方向是没问题的，但是从网站上来看，团队技术实在是太粗糙了，如果是靠谱技术团队应该能到3分或者4分。
+In fact, it is a lottery based on the blockchain. I understand that the direction is okay, but from the website, the team technology is too rough. If it is a reliable technical team, it should be able to score 3 or 4 points.
 
 #### DAPP
 
@@ -371,22 +367,23 @@ rRAM? as the intermedia between developer and eos-ram? not the key point.
 
 #### ATHENA
 
-目前看白皮书，写的太恢弘壮大，感觉不太现实。而且描述的想解决的痛点也比较宽泛，解决办法并不明确。
-大概感觉就是白皮书像是把各个概念都谈一下，然后拼凑起来的感觉。没太 get 到想解决的点。
+Looking at the white paper so far, it is too grand and strong, and it feels unrealistic. Moreover, the pain points that I want to solve are relatively broad, and the solution is not clear.
+It probably feels like the white paper talks about all the concepts and then puts them together. Not too get to the point I want to solve.
 
 #### SENSE
 
-白皮书分上下两篇，发布在medium上，看完后感觉一般，没有惊喜，和猜想的一样，就是社交积分管理类似，优点就是加密社交，通过token做积分管理和社区自治，token的规则很多很复杂，没有耐心仔细研究，个人感觉，这个方向，还是带着互联网的思维做区块链，个人不太看好。未来区块链的突破，肯定是做成了一些互联网无法做到的事情。如果还是带着互联网思维做，概率不大。
+The white paper is divided into two parts, which are published on medium. After reading it, it feels normal and there are no surprises. As I guess, it is similar to social point management. The advantage is encrypted social interaction. Point management and community autonomy through tokens have many rules. It is complicated, and I have no patience to study it carefully. Personally, I feel that this direction is to do the blockchain with the thinking of the Internet. I am not very optimistic about it. In the future, the breakthrough of blockchain will definitely accomplish something that the Internet cannot do. If you still do it with Internet thinking, the probability is not high.
 
 #### [VTX](https://volentix.io/)
 
-跨链概念，官网完成度还可以，下载了一个mac版本的verto钱包，钱包的完成度也还可以。  
-缺点是概念太大，方向不太靠谱，本来交易所就是最好的跨链应用，用户并没有再下载一个难用的跨链钱包来的意愿。  
-目前来看，概念太大的，失败概率也大。
+Cross-chain concept, the completion of the official website is not bad, I downloaded a mac version of the verto wallet, the completion of the wallet is also not bad.
+The disadvantage is that the concept is too big and the direction is not very reliable. Originally, the exchange was the best cross-chain application, and users did not have the will to download a difficult cross-chain wallet.
+At present, the concept is too big, and the probability of failure is also high.
+
 
 #### PGL
 
-白皮书简直就是游戏说明书，看完没有看到什么亮点，很普通的游戏，只不过把游戏金币换成token。还是那个观点，游戏的核心在于好玩和消遣时间，才能聚集人气，有人气后游戏内资产才有增值潜力。所以目前来看，没发现值得二次阅读的亮点。
+The white paper is simply the game manual. After reading it, I didn't see any bright spots. It is a very ordinary game, but the game coins are exchanged for tokens. Still from that point of view, the core of the game is fun and leisure time to gather popularity, and only after popularity can in-game assets have the potential for value-added. So for now, I haven't found any bright spots worth reading twice.
 
 #### SPIN
 
@@ -400,9 +397,9 @@ The database based on block. it is hard to succeed at present.
 
 #### [PYP](https://chattle.vip/#/)
 
-> 「块信」以区块链IM（即时通讯）作为平台载体，为用户提供数字货币钱包游戏娱乐电子商务等优质服务，一站式满足您的所有需求。
+"Blockchain" uses blockchain IM (instant messaging) as the platform carrier to provide users with digital currency wallets, games, entertainment, e-commerce and other high-quality services to meet all your needs in one stop.
 
-看到这个介绍，就觉得没戏了。区块链IM还没出成熟的产品，就开始用它作为平台载体？恩？
+Seeing this introduction, I feel like it's nowhere. Blockchain IM hasn't produced a mature product yet, has it been used as a platform carrier? Yep?
 
 #### [MARF](https://marf.io/)
 
@@ -412,7 +409,7 @@ defi concept, but its purpose and vision is too huge to achieve. i don't think i
 
 #### [CRG and MICH](https://newdex.zendesk.com/hc/zh-cn/articles/360038072512-Newdex%E4%B8%8A%E7%BA%BF-CRG-EOS-MICH-EOS-%E6%96%B0%E4%BA%A4%E6%98%93%E5%AF%B9)
 
-慈善捐赠概念，目的让捐赠者也有利可图？这个听起来不太能理解。2分观察吧。
+The concept of charitable donations, the purpose of making donors profitable? This sounds incomprehensible.
 
 #### [TDCE](https://newdex.zendesk.com/hc/zh-cn/articles/360038290492-Newdex%E4%B8%8A%E7%BA%BF-TDCE-EOS-%E6%96%B0%E4%BA%A4%E6%98%93%E5%AF%B9)
 
@@ -423,6 +420,10 @@ Social.
 did not find its website.
 
 #### [dEOS](https://eosfi.io/)
+
+#### [WAX](https://wax.io/)
+
+The ALIBABA on the blockchain? are you kidding me?
 
 ### ⭐️
 
@@ -442,8 +443,8 @@ Game Coin.
 
 #### EATCOIN (https://eatschools.com/index.php/about-us/)
 
-概念是教育激励，学生通过学习网上课程获得代币，教师通过收获学生好评获得代币。
-区块链时代的O2O，就是幻想什么项目发个代币就能起飞。显然是不可能的。
+The concept is educational incentives. Students earn tokens through online courses, and teachers earn tokens through praise from students.
+O2O in the blockchain era is to imagine that any project can take off by issuing a token. Obviously it is impossible.
 
 #### BID
 
@@ -455,12 +456,12 @@ Stable Coin Solution. Hard to make it work.
 
 #### [CHT](https://cryptoheroes.net/)
 
-游戏有关的概念币，不看好，感觉游戏类的币，都有点走飘了，游戏的本质在于娱乐，在于消费和花钱，不在于增值。
-而且看开盘砸成这样，应该也不是什么好鸟。
+Concept coins related to games are not optimistic. It feels that game coins are a little erratic. The essence of games is entertainment, consumption and spending, not value-added.
+And seeing the opening smashed like this, it should not be a good bird.
 
 #### [BBT](https://github.com/blockbasenetwork/documentation/blob/master/WhitePaper-tldr.md)
 
-解决的需求不明确，想在区块链上面做数据库，45%的币空投，其他的币全部用来做项目建设，也就是类似发工资。但是项目建设的前景又不清楚，目前看成功的概率不大。
+The need to solve is not clear. I want to build a database on the blockchain, 45% of the coins are airdropped, and the other coins are all used for project construction, which is similar to salary payment. However, the prospect of project construction is unclear, and the probability of success is not high at present.
 
 #### [HBG](https://hbg.finance/)
 
