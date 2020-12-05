@@ -53,6 +53,116 @@ REX Price:
 Resource Price: 
 1 EOS Can Borrow 2,437 EOS for 30 days
 
+#### [USDT](https://bloks.io/account/tethertether)
+
+stable-token is the necessity of digital exchange, but by now, USDT is still the most popular stable-coin.
+
+after all, in the area of stable-coin, the decentrelized solution can not compare with the historic brand company, even though the tech of new stable-coin is more advanced.
+
+in my opinion, USDT-in-eos is critical for the liquidity in eos. 
+
+```
+069ce18d	Oct 04, 2019 09:24:02 PM	
+tethertether issued 5,000,000 USDT to bitfinexdep1
+da204c17	Jul 30, 2019 07:17:06 PM	
+tethertether issued 250,000 USDT to tethertether
+```
+
+> updated at 2020-01:
+> now 5,251,000 USDT has been issued, and the recent issue time is 20191004, is a long time to now. so we can pay attention to the next issue time. 
+maybe it can bring something exciting to the eos-chain. 
+
+```
+0c67c881	Sep 05, 2020 03:21:52 PM	
+tethertether issued 50,000,000 USDT to bitfinexdep1
+1a95315f	Sep 04, 2020 07:20:31 PM	
+tethertether issued 25,000,000 USDT to bitfinexdep1
+bc75c247	Aug 29, 2020 05:03:51 PM	
+tethertether issued 10,000,000 USDT to bitfinexdep1
+```
+
+> updated at 2020-11
+> now 90,251,000 [USDT](https://bloks.io/tokens/USDT-eos-tethertether) has been issued, and the recent issue time is 2020-09-05. 
+> i guess that it is related to the [defibox](https://defibox.io), anyway, just keep watching on it.
+
+#### [BOX](https://defibox.io)
+
+it is DeFi application platform on EOS, initied and managed by the [Defibox](https://defibox.io) Foundation, and also funded and supported by Newdex. 
+so this project deserves attention and needs some time to oberve.
+
+[swap.defi contract](https://bloks.io/account/swap.defi)
+
+2020-11-29 log:
+
+Total stakes: 760222.676304 BOX(61.99%)
+BOX Price 1.5417 EOS
+
+24H Swap: 633062.8217 EOS 
+Liquidity: 5426107.2290 EOS
+
+2020-12-05: 
+
+[swap.defi contract](https://bloks.io/account/swap.defi)
+2,652,903 EOS
+3,550,661 USDT
+2,528,943 USN
+47 PBTC
+91,890 BOX
+111,702,860 NDX
+
+#### [USN](https://bloks.io/account/danchortoken)
+
+Decentralized stable coin is hot recently, USN is one of them. 
+but i think USDT which has the historic credit is better than USN. 
+USN = smart contract + Newdex brand quality guarantee. 
+
+2020-11-29 log:
+
+Generated 2507491.2268 USN
+Stakes: 1588474.6393 EOS
+
+#### [NDX](https://newdex.zendesk.com/hc/zh-cn/articles/360021256251-Newdex平台生态通证介绍)
+
+The token of Newdex, and its selling point is buy-back, just like BNB. 
+But Newdex's much smaller than Binance. so its buy-back is not as attractive as BNB. 
+
+But according to my observation, Newdex Team are doing the right thing and working hard. so it has some potential. it deserves to be paid attention to .
+
+> 2020-11-28 
+> 24H Total Volume: 
+> 56980 EOS
+> 24901 USDT
+> 1896 USDⓈ
+
+#### pEOS
+
+so far, that should be one of the most smooth whitepapers which i ever read, very concise. it means to solve the privacy problem which is one of the user's pain point. clearly, it will develop untraceable transactions for it. similar products are zCash etc.
+and pEOS's advantage is based on eos chain, so it can reuse the ecological and high-performance advantages of eos. 
+
+air-drops are also more sincere. 80% of the air-drops are given to eos holders, and the team keeps 20%.
+
+the white papers also mentioned that after the smart contract is ready, the contract account will become immutable account, and open source the contract code. 
+
+#### [SOV](https://www.soveos.one/)
+
+SOV is a very creative token on the EOS chain, with a very new concept: Deflation.  
+
+The key points are as follows:
+
+because of the deflation, when trading, SOV tokens will be burn at the rate, until the total amount drops from 1 billion to 21 million. 
+
+82% of the airdrops are given to the EOS creation account, and each creation account can receive 5k SOV, so it is highly decentralized. 
+
+its contract is the first immutable contract on the EOS chain, that is, the owner key authority of contract account has been set to the eosio account, and it only can be modified if the blockproducer node votes more than 15/21. 
+
+#### [pTokens](https://ptokens.io/)
+
+pTokens has a Good sense of technology. [GitHub](https://github.com/provable-things), it aims to build a cross-chain DeFi platform. 
+there are many tokens on that, such as pBTC, pETH, pLTC and so on. 
+
+it is a good idea but it need a lot of effort to make it come true. 
+
+
 #### [POW](https://github.com/NedAmarril/eosiopowcoin)
 
 Do the mining things by eos cpu, just like EIDOS, but it has some advantage against EIDOS.  
@@ -91,116 +201,6 @@ When the YAS token issued amount reach 90M, the mainnet of YAS will be launched.
 The team of EIDOS is most creative team at the eos-mainnet, so i think this project deserve attention greatly. 
 
 If you are interested in it, you can look into details in [YAS Network](https://enumivo.org/blog/2019/11/24/yas-network)  
-
-#### [USDT](https://bloks.io/account/tethertether)
-
-stable-token is the necessity of digital exchange, but by now, USDT is still the most popular stable-coin.
-
-after all, in the area of stable-coin, the decentrelized solution can not compare with the historic brand company, even though the tech of new stable-coin is more advanced.
-
-in my opinion, USDT-in-eos is critical for the liquidity in eos. 
-
-```
-069ce18d	Oct 04, 2019 09:24:02 PM	
-tethertether issued 5,000,000 USDT to bitfinexdep1
-da204c17	Jul 30, 2019 07:17:06 PM	
-tethertether issued 250,000 USDT to tethertether
-```
-
-> updated at 2020-01:
-> now 5,251,000 USDT has been issued, and the recent issue time is 20191004, is a long time to now. so we can pay attention to the next issue time. 
-maybe it can bring something exciting to the eos-chain. 
-
-```
-0c67c881	Sep 05, 2020 03:21:52 PM	
-tethertether issued 50,000,000 USDT to bitfinexdep1
-1a95315f	Sep 04, 2020 07:20:31 PM	
-tethertether issued 25,000,000 USDT to bitfinexdep1
-bc75c247	Aug 29, 2020 05:03:51 PM	
-tethertether issued 10,000,000 USDT to bitfinexdep1
-```
-
-> updated at 2020-11
-> now 90,251,000 [USDT](https://bloks.io/tokens/USDT-eos-tethertether) has been issued, and the recent issue time is 2020-09-05. 
-> i guess that it is related to the [defibox](https://defibox.io), anyway, just keep watching on it.
-
-#### [USN](https://bloks.io/account/danchortoken)
-
-Decentralized stable coin is hot recently, USN is one of them. 
-but i think USDT which has the historic credit is better than USN. 
-USN = smart contract + Newdex brand quality guarantee. 
-
-2020-11-29 log:
-
-Generated 2507491.2268 USN
-Stakes: 1588474.6393 EOS
-
-#### pEOS
-
-so far, that should be one of the most smooth whitepapers which i ever read, very concise. it means to solve the privacy problem which is one of the user's pain point. clearly, it will develop untraceable transactions for it. similar products are zCash etc.
-and pEOS's advantage is based on eos chain, so it can reuse the ecological and high-performance advantages of eos. 
-
-air-drops are also more sincere. 80% of the air-drops are given to eos holders, and the team keeps 20%.
-
-the white papers also mentioned that after the smart contract is ready, the contract account will become immutable account, and open source the contract code. 
-
-
-#### [SOV](https://www.soveos.one/)
-
-SOV is a very creative token on the EOS chain, with a very new concept: Deflation.  
-
-The key points are as follows:
-
-because of the deflation, when trading, SOV tokens will be burn at the rate, until the total amount drops from 1 billion to 21 million. 
-
-82% of the airdrops are given to the EOS creation account, and each creation account can receive 5k SOV, so it is highly decentralized. 
-
-its contract is the first immutable contract on the EOS chain, that is, the owner key authority of contract account has been set to the eosio account, and it only can be modified if the blockproducer node votes more than 15/21. 
-
-#### [NDX](https://newdex.zendesk.com/hc/zh-cn/articles/360021256251-Newdex平台生态通证介绍)
-
-The token of Newdex, and its selling point is buy-back, just like BNB. 
-But Newdex's much smaller than Binance. so its buy-back is not as attractive as BNB. 
-
-But according to my observation, Newdex Team are doing the right thing and working hard. so it has some potential. it deserves to be paid attention to .
-
-> 2020-11-28 
-> 24H Total Volume: 
-> 56980 EOS
-> 24901 USDT
-> 1896 USDⓈ
-
-#### [BOX](https://defibox.io)
-
-it is DeFi application platform on EOS, initied and managed by the [Defibox](https://defibox.io) Foundation, and also funded and supported by Newdex. 
-so this project deserves attention and needs some time to oberve.
-
-[swap.defi contract](https://bloks.io/account/swap.defi)
-
-2020-11-29 log:
-
-Total stakes: 760222.676304 BOX(61.99%)
-BOX Price 1.5417 EOS
-
-24H Swap: 633062.8217 EOS 
-Liquidity: 5426107.2290 EOS
-
-2020-12-05: 
-
-[swap.defi contract](https://bloks.io/account/swap.defi)
-2,652,903 EOS
-3,550,661 USDT
-2,528,943 USN
-47 PBTC
-91,890 BOX
-111,702,860 NDX
-
-#### [pTokens](https://ptokens.io/)
-
-pTokens has a Good sense of technology. [GitHub](https://github.com/provable-things), it aims to build a cross-chain DeFi platform. 
-there are many tokens on that, such as pBTC, pETH, pLTC and so on. 
-
-it is a good idea but it need a lot of effort to make it come true. 
 
 #### [AMT](https://enumivo.org/blog/2020/3/1/amt-anti-mining-token-airdrop)
 
