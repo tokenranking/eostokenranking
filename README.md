@@ -359,7 +359,7 @@ The official website is alright, but the overall feeling is not good, and its ro
 
 #### [WEED](http://weedcash.io/)
 
-和 STEEMP 类似，一币发多链，看不太懂，也是观察吧。
+it is hard to understand.
 
 #### [LMC](http://luckyminer.one/)
 
@@ -367,7 +367,7 @@ The official website is alright, but the overall feeling is not good, and its ro
 
 #### DAPP
 
-主要亮点是rRAM 我的理解就是作为开发者和 eos ram 的一个中间件，主要是提升eos的开发效率。但是个人觉得这个并不是 eos 开发的痛点。对这个方向持怀疑态度。
+rRAM? as the intermedia between developer and eos-ram? not the key point.
 
 #### ATHENA
 
@@ -394,7 +394,7 @@ dice平台上的积分代币，没太大意思，主要是起到比较喜庆的�
 
 #### BAP
 
-又一个菠菜游戏，同质化太严重，不看好。
+Gambling game. that is too much already.
 
 #### [BBT](https://blockbase.network/)
 
@@ -408,8 +408,6 @@ dice平台上的积分代币，没太大意思，主要是起到比较喜庆的�
 
 #### [MARF](https://marf.io/)
 
-从 MARF [官网](https://marf.io/) 看不到任何和 [Newdex上币介绍](https://newdex.zendesk.com/hc/zh-cn/articles/360038039172-Newdex%E4%B8%8A%E7%BA%BF-MARF-EOS-%E6%96%B0%E4%BA%A4%E6%98%93%E5%AF%B9) 对得上的资料。what happened?
-
 #### [DFS](https://www.defis.network/)
 
 defi concept, but its purpose and vision is too huge to achieve. i don't think it will last long. 
@@ -420,7 +418,7 @@ defi concept, but its purpose and vision is too huge to achieve. i don't think i
 
 #### [TDCE](https://newdex.zendesk.com/hc/zh-cn/articles/360038290492-Newdex%E4%B8%8A%E7%BA%BF-TDCE-EOS-%E6%96%B0%E4%BA%A4%E6%98%93%E5%AF%B9)
 
-社交媒体概念，实在不看好。2分观察。
+Social.
 
 #### [HUB](https://bloks.io/account/eoshubtokens)
 
@@ -434,17 +432,15 @@ did not find its website.
 
 #### [TRO](https://treos.io/)
 
-电商代币，这官网仿佛 90 年代的电商网站，让我差点穿越回去。
+The concept of E-commerse. impossible
 
 #### [LOOT](https://bloks.io/account/lootglobcore)
 
 #### [DMC](https://bloks.io/account/weedcashntwk)
 
-训龙大师游戏币，持币分红，方向不看好，游戏是用来娱乐的，不是用来赚钱的。
+Game Coin.
 
 #### [DAPPPRO](https://bloks.io/account/dapp.pro)
-
-没看到更多介绍，只能凭直觉或者说嗅觉来判断是韭菜包子了。
 
 #### EATCOIN (https://eatschools.com/index.php/about-us/)
 
@@ -453,11 +449,11 @@ did not find its website.
 
 #### BID
 
-飞鸟游戏，官网打开后，需要邀请码才能进入。晕。
+Bird Game.
 
 #### NUT
 
-又一个稳定币解决方案，感觉对稳定币提不起兴趣，也不理解为什么这么多团队都在做这个方向，虽然技术含量高，但是感觉并不是用户需求所驱动。没有深究的欲望。
+Stable Coin Solution. Hard to make it work.
 
 #### [CHT](https://cryptoheroes.net/)
 
