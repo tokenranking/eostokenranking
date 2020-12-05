@@ -441,7 +441,7 @@ Game Coin.
 
 #### [DAPPPRO](https://bloks.io/account/dapp.pro)
 
-#### EATCOIN (https://eatschools.com/index.php/about-us/)
+#### [EATCOIN](https://eatschools.com/index.php/about-us/)
 
 The concept is educational incentives. Students earn tokens through online courses, and teachers earn tokens through praise from students.
 O2O in the blockchain era is to imagine that any project can take off by issuing a token. Obviously it is impossible.
