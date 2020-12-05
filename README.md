@@ -390,15 +390,13 @@ rRAM? as the intermedia between developer and eos-ram? not the key point.
 
 #### SPIN
 
-dice平台上的积分代币，没太大意思，主要是起到比较喜庆的作用。
-
 #### BAP
 
 Gambling game. that is too much already.
 
 #### [BBT](https://blockbase.network/)
 
-基于区块链的数据库，目前这个阶段做这个事情，希望不大。
+The database based on block. it is hard to succeed at present.
 
 #### [PYP](https://chattle.vip/#/)
 
