@@ -321,7 +321,7 @@ and a large number of coins are waiting to be mined, and the deflation is insuff
 
 #### TPT
 
-居然到现在还没把白皮书发布出来。TokenPocket 确实是目前 eos 链上最好用的钱包，没有之一，但是这个 TPT 的白皮书也没有，个人猜测去中心诚意不足，应该会作为类似股份激励的方向来运营。
+Actually, TokenPocket is indeed the best wallet on the EOS chain at the present. 
 
 #### [GOVRN](https://consortium.live/)
 
