@@ -175,6 +175,8 @@ But according to my observation, Newdex Team are doing the right thing and worki
 it is DeFi application platform on EOS, initied and managed by the [Defibox](https://defibox.io) Foundation, and also funded and supported by Newdex. 
 so this project deserves attention and needs some time to oberve.
 
+[swap.defi contract](https://bloks.io/account/swap.defi)
+
 2020-11-29 log:
 
 Total stakes: 760222.676304 BOX(61.99%)
@@ -183,6 +185,15 @@ BOX Price 1.5417 EOS
 24H Swap: 633062.8217 EOS 
 Liquidity: 5426107.2290 EOS
 
+2020-12-05: 
+
+[swap.defi contract](https://bloks.io/account/swap.defi)
+2,652,903 EOS
+3,550,661 USDT
+2,528,943 USN
+47 PBTC
+91,890 BOX
+111,702,860 NDX
 
 #### [pTokens](https://ptokens.io/)
 
