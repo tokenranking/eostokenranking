@@ -92,6 +92,12 @@ so this project deserves attention and needs some time to oberve.
 
 [swap.defi contract](https://bloks.io/account/swap.defi)
 
+swap contract example: 
+
+[swap: eos -> usdt](https://bloks.io/transaction/4feedf164a114829dc1f2cf302f2cd27ed959232a0bff85611d22a686e8c4c25?tab=traces)    
+[add liquidity: eos <-> usdt](https://bloks.io/transaction/ba8a11e10a3c19a8427d23314068c19b1111bb62941f432c1efef2c286facb6b?tab=traces)  
+[reduce liquidity: eos<->usdt](https://bloks.io/transaction/2563a303706bb026cc7704c7266944f19af58e9299ccb31f9005d0390fd23031?tab=traces)  
+
 2020-11-29 log:
 
 Total stakes: 760222.676304 BOX(61.99%)
