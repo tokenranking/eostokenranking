@@ -291,11 +291,11 @@ Aims to provider the value of votes, so voters can get money from its eos vote. 
 
 #### [POOL](https://bloks.io/account/stpool.eos)
 
-starteos 的股份币？会员币？没找到这个币的介绍，也没看出发这个币的必要性？
+Didn't find the introduction of this coin, and did not see the necessary of starting this coin?
 
-#### [EOSDAC]
+#### EOSDAC
 
-可能是一个eos上的乌托邦，理想是美好的，现实是残酷的。
+It may be a utopia on EOS, Ideals are beautiful and reality is cruel.
 
 #### [VIG](https://vig.ai/VIGOR.pdf)/[VIGOR](https://vigor.ai/)
 
@@ -305,7 +305,7 @@ but the token distribution is not decentralized enough.
 
 #### [BET](https://eosbet.io/)
 
-没找到白皮书，看官网完整性还可以。后面有空再详细分析。值得关注。
+Didn't find the whitepaper, but the offical website is well, i will analyze it in detail later when i have time, worthy of attention.
 
 #### SBET
 
