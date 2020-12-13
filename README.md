@@ -155,6 +155,10 @@ But according to my observation, Newdex Team are doing the right thing and worki
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |2020-12-13|3|newdex.bp|3.077 %	|397,298,494 |1001.5407|
 
+|Date|Mining Accounts|Mining Amount(EOS)|
+|:-:|:-:|:-:|
+|2020-12-13|4500|15793077|
+
 #### pEOS
 
 so far, that should be one of the most smooth whitepapers which i ever read, very concise. it means to solve the privacy problem which is one of the user's pain point. clearly, it will develop untraceable transactions for it. similar products are zCash etc.
