@@ -31,10 +31,19 @@ Try my best to cover all of tokens launched at Newdex.
 
 #### [EOS](https://bloks.io/)
 
-2020-11-29 log:
+2020-11-29:
 
 Accounts: 2,158,298;
 Staked EOS 596,001,256
+
+2020-12-13:
+
+[Producers](https://bloks.io/#producers): 
+
+|Rank|Block Producer|Votes %|Total Votes|Rewards Per Day|
+|:-:|:-:|:-:|:-:|:-:|
+|1|eosnationftw|3.196 %|412,562,896|1027.4837|
+|21|eosrapidprod|1.963 %|253,483,976|757.1179|	
 
 #### [REX](https://bloks.io/rex)
 
@@ -127,7 +136,7 @@ USN = smart contract + Newdex brand quality guarantee.
 Generated 2507491.2268 USN
 Stakes: 1588474.6393 EOS
 
-#### [NDX](https://newdex.zendesk.com/hc/zh-cn/articles/360021256251-Newdex平台生态通证介绍)
+#### [NDX](https://support.newdex.net/hc/en-us/articles/360021256251-Introduction-of-Newdex-Platform-Ecological-Token)
 
 The token of Newdex, and its selling point is buy-back, just like BNB. 
 But Newdex's much smaller than Binance. so its buy-back is not as attractive as BNB. 
@@ -139,6 +148,12 @@ But according to my observation, Newdex Team are doing the right thing and worki
 > 56980 EOS
 > 24901 USDT
 > 1896 USDⓈ
+
+#### [Newpool](https://newdex.vip/newpool/eos)
+
+|Date|Rank|Block Producer|Votes %|Total Votes|Rewards Per Day|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|2020-12-13|3|newdex.bp|3.077 %	|397,298,494 |1001.5407|
 
 #### pEOS
 
