@@ -19,6 +19,7 @@ Features:
 - The way to reach the target
 - Token distribution 
 - The trend of marketing
+- [blocktivity](https://blocktivity.info)
 
 I will follow the [Newdex token launched announcement](https://newdex.zendesk.com/hc/en-us/sections/360003160531-Token-Developments) to update the newest token ranking. 
 Try my best to cover all of tokens launched at Newdex.
