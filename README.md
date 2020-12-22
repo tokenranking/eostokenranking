@@ -116,15 +116,13 @@ BOX Price 1.5417 EOS
 24H Swap: 633062.8217 EOS 
 Liquidity: 5426107.2290 EOS
 
-2020-12-05: 
+|[swap.defi](https://bloks.io/account/swap.defi)|Date|EOS|USDT|USN|PBTC|BOX|NDX|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+||2020-12-05|2,652,903|3,550,661|2,528,943|47|91,890|111,702,860|
 
-[swap.defi contract](https://bloks.io/account/swap.defi)
-2,652,903 EOS
-3,550,661 USDT
-2,528,943 USN
-47 PBTC
-91,890 BOX
-111,702,860 NDX
+|Date|[reserve.defi](https://bloks.io/account/reserve.defi)|
+|:-:|:-:|
+|2020-12-22|977 EOS|
 
 #### [USN](https://bloks.io/account/danchortoken)
 
