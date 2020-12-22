@@ -71,29 +71,13 @@ after all, in the area of stable-coin, the decentrelized solution can not compar
 
 in my opinion, USDT-in-eos is critical for the liquidity in eos. 
 
-```
-069ce18d	Oct 04, 2019 09:24:02 PM	
-tethertether issued 5,000,000 USDT to bitfinexdep1
-da204c17	Jul 30, 2019 07:17:06 PM	
-tethertether issued 250,000 USDT to tethertether
-```
-
-> updated at 2020-01:
-> now 5,251,000 USDT has been issued, and the recent issue time is 20191004, is a long time to now. so we can pay attention to the next issue time. 
-maybe it can bring something exciting to the eos-chain. 
-
-```
-0c67c881	Sep 05, 2020 03:21:52 PM	
-tethertether issued 50,000,000 USDT to bitfinexdep1
-1a95315f	Sep 04, 2020 07:20:31 PM	
-tethertether issued 25,000,000 USDT to bitfinexdep1
-bc75c247	Aug 29, 2020 05:03:51 PM	
-tethertether issued 10,000,000 USDT to bitfinexdep1
-```
-
-> updated at 2020-11
-> now 90,251,000 [USDT](https://bloks.io/tokens/USDT-eos-tethertether) has been issued, and the recent issue time is 2020-09-05. 
-> i guess that it is related to the [defibox](https://defibox.io), anyway, just keep watching on it.
+|Date|[Issued](https://bloks.io/account/tethertether)|[Circulating Supply](https://bloks.io/tokens/USDT-eos-tethertether)|
+|:-:|:-:|:-:|
+|2019-10-04|tethertether issued 5,000,000 USDT to bitfinexdep1|-|
+|2019-07-30|tethertether issued 250,000 USDT to tethertether|-|
+|2020-08-29|tethertether issued 10,000,000 USDT to bitfinexdep1|-|
+|2020-09-04|tethertether issued 25,000,000 USDT to bitfinexdep1|-|
+|2020-09-05|tethertether issued 50,000,000 USDT to bitfinexdep1|90,251,000|
 
 #### [BOX](https://defibox.io)
 
