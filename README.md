@@ -32,19 +32,16 @@ Try my best to cover all of tokens launched at Newdex.
 
 #### [EOS](https://bloks.io/)
 
-2020-11-29:
-
-Accounts: 2,158,298;
-Staked EOS 596,001,256
-
-2020-12-13:
+|Date|Accounts|Staked EOS|
+|:-:|:-:|:-:|
+|2020-11-29|2,158,298|596,001,256|
 
 [Producers](https://bloks.io/#producers): 
 
-|Rank|Block Producer|Votes %|Total Votes|Rewards Per Day|
-|:-:|:-:|:-:|:-:|:-:|
-|1|eosnationftw|3.196 %|412,562,896|1027.4837|
-|21|eosrapidprod|1.963 %|253,483,976|757.1179|	
+|Date|Rank|Block Producer|Votes %|Total Votes|Rewards Per Day|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|2020-12-13|1|eosnationftw|3.196 %|412,562,896|1027.4837|
+|2020-12-13|21|eosrapidprod|1.963 %|253,483,976|757.1179|	
 
 #### [REX](https://bloks.io/rex)
 
