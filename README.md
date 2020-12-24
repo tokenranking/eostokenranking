@@ -100,10 +100,9 @@ Decentralized stable coin is hot recently, USN is one of them.
 but i think USDT which has the historic credit is better than USN. 
 USN = smart contract + Newdex brand quality guarantee. 
 
-2020-11-29 log:
-
-Generated 2507491.2268 USN
-Stakes: 1588474.6393 EOS
+|Date|Generated|Stakes|
+|:-:|:-:|:-:|
+|2020-11-29|2507491 USN|1588474 EOS|
 
 #### [NDX](https://support.newdex.net/hc/en-us/articles/360021256251-Introduction-of-Newdex-Platform-Ecological-Token)
 
