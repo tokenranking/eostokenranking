@@ -155,6 +155,19 @@ there are many tokens on that, such as pBTC, pETH, pLTC and so on.
 
 it is a good idea but it need a lot of effort to make it come true. 
 
+|Date|Token|Price (USD)|Token Holders|Circulating Supply|
+|:-:|:-:|:-:|:-:|:-:|
+|2020-12-27|[PBTC](https://bloks.io/tokens/PBTC-eos-btc.ptokens)|26,636 USD|4,692|138|
+
+#### [KEY](https://bloks.io/tokens/KEY-eos-mkstaketoken)
+
+|Date|Token|Price (USD)|Token Holders|Circulating Supply|
+|:-:|:-:|:-:|:-:|:-:|
+|2020-12-27|[KEY](https://bloks.io/tokens/KEY-eos-mkstaketoken)|0.000471 USD|77,432|9,000,000,000 KEY|
+
+|Date|Rank|Block Producer|Votes %|Total Votes|Rewards Per Day|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|2020-12-27|69|[keycommunity](https://bloks.io/account/keycommunity)|0.392 %|49,881,612|0.0000|
 
 #### [POW](https://github.com/NedAmarril/eosiopowcoin)
 
