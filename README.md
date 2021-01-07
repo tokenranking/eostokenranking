@@ -78,13 +78,9 @@ swap contract example:
 [add liquidity: eos <-> usdt](https://bloks.io/transaction/ba8a11e10a3c19a8427d23314068c19b1111bb62941f432c1efef2c286facb6b?tab=traces)  
 [reduce liquidity: eos<->usdt](https://bloks.io/transaction/2563a303706bb026cc7704c7266944f19af58e9299ccb31f9005d0390fd23031?tab=traces)  
 
-2020-11-29 log:
-
-Total stakes: 760222.676304 BOX(61.99%)
-BOX Price 1.5417 EOS
-
-24H Swap: 633062.8217 EOS 
-Liquidity: 5426107.2290 EOS
+|Date|Total stakes|BOX Price|24H Swap|Liquidity|
+|:-:|:-:|:-:|:-:|:-:|
+|2020-11-29|760222.676304 BOX(61.99%)|1.5417 EOS|633062.8217 EOS|5426107.2290 EOS|
 
 |Account|Date|EOS|USDT|USN|PBTC|BOX|NDX|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -103,6 +99,7 @@ USN = smart contract + Newdex brand quality guarantee.
 |Date|Generated|Stakes|
 |:-:|:-:|:-:|
 |2020-11-29|2507491 USN|1588474 EOS|
+|2021-01-07|2126574 USN|1723463 EOS|
 
 #### [NDX](https://support.newdex.net/hc/en-us/articles/360021256251-Introduction-of-Newdex-Platform-Ecological-Token)
 
