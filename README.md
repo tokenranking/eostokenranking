@@ -35,6 +35,7 @@ Try my best to cover all of tokens launched at Newdex.
 |Date|Accounts|Staked EOS|
 |:-:|:-:|:-:|
 |2020-11-29|2,158,298|596,001,256|
+|2021-02-06|2,294,060|527,119,229|
 
 [Producers](https://bloks.io/#producers): 
 
@@ -42,6 +43,8 @@ Try my best to cover all of tokens launched at Newdex.
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |2020-12-13|1|eosnationftw|3.196 %|412,562,896|1027.4837|
 |2020-12-13|21|eosrapidprod|1.963 %|253,483,976|757.1179|	
+|2021-02-06|1|starteosiobp|2.955 %|349,316,798|948.9389|
+|2021-02-06|21|eoscannonchn|2.088 %|246,824,081|766.3972|	
 
 #### [REX](https://bloks.io/rex)
 
@@ -64,6 +67,7 @@ in my opinion, USDT-in-eos is critical for the liquidity in eos.
 |2020-08-29|tethertether issued 10,000,000 USDT to bitfinexdep1|-|
 |2020-09-04|tethertether issued 25,000,000 USDT to bitfinexdep1|-|
 |2020-09-05|tethertether issued 50,000,000 USDT to bitfinexdep1|90,251,000|
+|2021-02-06||40,251,000|
 
 #### [BOX](https://defibox.io)
 
